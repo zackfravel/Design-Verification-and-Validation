@@ -1,0 +1,49 @@
+// Zack Fravel
+// System Synthesis and Modeling
+// Final Project (Step 1)
+
+module final_alu(clk, reset, data_in, regI1en, regI2en,
+		 regOen, operation, enTriOut, data_out);
+
+// Input/Output Declaration //
+input clk; input reset; input[15:0] data_in; input regI1en; input regI2en;
+input regOen; input[2:0] operation; input enTriOut; output[15:0] data_out; tri[15:0] data_out; 
+
+// Register/Signal Declaration //
+reg[15:0] ALUin1;
+reg[15:0] ALUin2;
+reg[15:0] result;
+
+parameter ADD = 3'b000, SUB = 3'b001, NOT = 3'b010, AND = 3'b011,
+	  OR = 3'b100, XOR = 3'b101, XNOR = 3'b110;
+
+always@(posedge clk or posedge reset)
+begin
+	if(reset == 1)
+	   begin
+		ALUin1 <= 16'h0000;
+		ALUin2 <= 16'h0000;
+		result <= 16'h0000;
+	   end
+	else
+	   if(regI1en == 1)				// Assign input registers
+		ALUin1 <= data_in;
+	   else if(regI2en == 1)
+		ALUin2 <= data_in;
+	   else if(regOen == 1)
+		 begin
+	  	    case(operation)				// Perform ALU Operations
+			ADD:  result <= ALUin1 + ALUin2;
+			SUB:  result <= ALUin1 - ALUin2;
+			NOT:  result <= ~ALUin1;
+			AND:  result <= ALUin1 & ALUin2;
+			OR:   result <= ALUin1 | ALUin2;
+			XOR:  result <= ALUin1 ^ ALUin2;
+			XNOR: result <= ALUin1 ~^ ALUin2;
+	  	 endcase
+	end
+end
+
+	assign data_out = (enTriOut) ? result:16'hzzzz; // Tri State Buffer on output 
+
+endmodule

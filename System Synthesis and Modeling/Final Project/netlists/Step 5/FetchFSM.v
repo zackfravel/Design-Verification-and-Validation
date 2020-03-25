@@ -1,0 +1,119 @@
+// Zack Fravel
+// System Synthesis and Modeling
+// Final Project (Step 4)
+
+module fetch_FSM(clk, reset, start, PCoutEn, MARinEn, memOp, memEn, MDRreadEn, MDRoutEn, IRinEn, MFC, ID_en);
+
+// Port Declartaion
+
+input clk; input reset; input start; input MFC;
+
+output reg PCoutEn; output reg MARinEn; output reg memOp; output reg memEn;
+output reg MDRreadEn; output reg MDRoutEn; output reg IRinEn;
+output reg ID_en;
+
+reg[3:0] current_state, next_state;			
+
+// Set Parameters for State Signals
+
+parameter init = 4'b0000, one = 4'b0001, two = 4'b0010, three = 4'b0011, 
+	four = 4'b0100, five = 4'b0101, six = 4'b0110, 	
+	seven = 4'b0111, eight = 4'b1000, nine = 4'b1001, ten = 4'b1010;
+
+
+// Architecture
+
+always @(posedge clk or posedge reset)			// Current State Transition
+begin
+   if(reset)
+	current_state <= init;
+   else
+	current_state <= next_state;
+end
+
+
+always @(current_state or MFC or start)		// Next State Logic
+begin
+
+   case(current_state)
+
+   init:   begin
+	 	if(start || reset)
+	   		next_state <= one;
+		else 
+			next_state <= next_state;
+           end
+   one:    begin next_state <= two; end
+   two:    begin next_state <= three; end
+   three:  begin next_state <= four; end
+   four:   begin 
+		if(MFC)
+			next_state <= five;
+		else
+			next_state <= four; 
+	   end
+   five:   begin next_state <= six; end
+   six:    begin next_state <= seven; end
+   seven:  begin next_state <= eight; end
+   eight:  begin next_state <= nine; end
+   nine:   begin next_state <= init; end
+   default:begin next_state <= init; end
+
+   endcase
+end
+
+
+always @(current_state)					// Output Logic
+begin
+
+   case (current_state)
+
+   init:  begin 
+		PCoutEn = 0; MARinEn = 0; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   one:   begin  
+		PCoutEn = 0; MARinEn = 0; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   two:   begin 
+		PCoutEn = 1; MARinEn = 1; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   three: begin 
+		PCoutEn = 1; MARinEn = 1; memOp = 1; memEn = 1;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   four:  begin  
+		PCoutEn = 1; MARinEn = 1; memOp = 1; memEn = 1;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   five:  begin  
+		PCoutEn = 0; MARinEn = 0; memOp = 1; memEn = 1;
+		MDRreadEn = 1; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+   six:   begin  
+		PCoutEn = 0; MARinEn = 0; memOp = 1; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 1; IRinEn = 1; ID_en = 0;
+	  end
+   seven: begin 
+		PCoutEn = 0; MARinEn = 0; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end 
+   eight: begin
+		PCoutEn = 0; MARinEn = 0; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 1;
+	  end
+   nine: begin
+		PCoutEn = 0; MARinEn = 0; memOp = 0; memEn = 0;
+		MDRreadEn = 0; MDRoutEn = 0; IRinEn = 0; ID_en = 0;
+	  end
+
+   endcase
+
+end
+
+
+
+
+endmodule

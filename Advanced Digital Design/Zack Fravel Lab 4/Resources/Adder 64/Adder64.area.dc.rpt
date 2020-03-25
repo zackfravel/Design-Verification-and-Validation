@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : Adder64
+Version: M-2016.12-SP5
+Date   : Sun Nov  5 13:08:42 2017
+****************************************
+
+Library(s) Used:
+
+gscl45nm (File: /tools/library/FreePDK45/osu_soc/lib/files/gscl45nm.db)
+
+Number of ports:                          194
+Number of nets:                           257
+Number of cells:                           64
+Number of combinational cells:             64
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       1
+
+Combinational area:                570.668823
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:            	570.668823
+Total area:                 	undefined
+1

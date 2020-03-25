@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : fft8
+Version: M-2016.12-SP5
+Date   : Wed Dec  6 16:48:41 2017
+****************************************
+
+Library(s) Used:
+
+    NangateOpenCellLibrary (File: /home/zpfravel/Desktop/fft8/lib/db/NangateOpenCellLibrary_typical_ecsm.db)
+
+Number of ports:                          344
+Number of nets:                         41294
+Number of cells:                        38454
+Number of combinational cells:          27696
+Number of sequential cells:             10752
+Number of macros/black boxes:               0
+Number of buf/inv:                       7988
+Number of references:                      54
+
+Combinational area:              31757.474621
+Buf/Inv area:                     4411.610030
+Noncombinational area:           48617.616238
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                 80375.090859
+Total area:                 undefined
+1

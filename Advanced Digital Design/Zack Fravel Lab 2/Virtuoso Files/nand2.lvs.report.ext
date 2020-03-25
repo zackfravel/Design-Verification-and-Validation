@@ -1,0 +1,45 @@
+
+
+       #############################################################
+       ##                                                         ##
+       ##               C A L I B R E    S Y S T E M              ##
+       ##                                                         ##
+       ##    C I R C U I T   E X T R A C T I O N   R E P O R T    ##
+       ##                                                         ##
+       #############################################################
+
+
+REPORT FILE NAME:         nand2.lvs.report.ext
+LAYOUT NAME:              nand2.calibre.db ('nand2')
+CREATION TIME:            Sun Oct  8 20:07:49 2017
+CURRENT DIRECTORY:        /home/zpfravel/Documents/AdvancedDigitalDesign/Lab2/virtuoso/rundir
+USER NAME:                zpfravel@uark.edu
+CALIBRE VERSION:          v2017.2_28.22    Tue Jun 6 14:38:29 PDT 2017
+
+
+
+Extraction Errors and Warnings for cell "nand2"
+-----------------------------------------------
+
+WARNING:  Unattached label:
+          Name  "A"  at location  (-0.78,0.115)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "AnandB"  at location  (-1.73,-0.095)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "B"  at location  (0.73,-0.19)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "GND"  at location  (1.42,-0.88)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "VDD"  at location  (1.36,0.93)  on layer  11 "metal1"
+
+
+WARNING: Unattached port "AnandB" at location (-1.73,-0.095) in cell "nand2"
+WARNING: Unattached port "A" at location (-0.78,0.115) in cell "nand2"
+WARNING: Unattached port "B" at location (0.73,-0.19) in cell "nand2"
+WARNING: Unattached port "VDD" at location (1.36,0.93) in cell "nand2"
+WARNING: Unattached port "GND" at location (1.42,-0.88) in cell "nand2"
+

@@ -1,0 +1,15 @@
+{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 3/iDecoder_tb.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 3\iDecoder_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module iDecoder_tb
+
+Top level modules:
+	iDecoder_tb
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 3/iDecoder.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 3\iDecoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module iDecoder
+
+Top level modules:
+	iDecoder
+
+} {} {}}

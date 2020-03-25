@@ -1,0 +1,71 @@
+// Zack Fravel
+// System Synthesis and Modeling
+// Final Project
+
+`timescale 1ns/1ns
+module CPU_tb();
+
+// Outputs to CPU
+	reg clk; reg reset; reg MFC;
+	reg[15:0] data_in;
+ 
+// Memory	
+	wire R_W; wire EN;
+	wire[15:0] data_out; wire[15:0] address; 
+	reg[15:0] mem[65535:0]; // 16'hFFFF to 16'h0000
+
+// Delcare CPU
+	CPU test(clk, reset, MFC, data_in, data_out, address, R_W, EN);
+
+// Initialize Memory
+	integer i;
+	initial
+	begin
+		clk = 0; reset = 0; MFC = 0; data_in = 16'bz; #500;
+		reset = 1;
+
+		// Clear Memory
+		for(i=0; i<65535; i=i+1)
+		begin
+			mem[i] = 16'b0;
+		end
+		// Test Program 010646947
+		mem[0] = 16'b1011000011010101; // MOVi  R2, #21 xb0d5
+		mem[1] = 16'b1001000011001011; // SUBi  R2, #11 x90cb
+		mem[2] = 16'b1010000100000011; // MOV   R3, R2  xa103
+		mem[3] = 16'b1000000011100011; // ADDi  R2, #35 x80e3
+		mem[4] = 16'b0110000011000100; // XOR   R2, R3  x60c4
+		mem[5] = 16'b0011000011000000; // INV   R2	x30c0
+		mem[6] = 16'b1101000100000011; // STORE R3,(R2) xd103
+		mem[7] = 16'b1100000011000001; // LOAD (R2),R0  xc0c1
+		@(negedge clk) reset = 0;
+	end
+
+// Clock generation
+	always #1000 clk = ~clk;
+
+// Handle read/write operations
+	always@(EN)
+	begin
+		if(EN)
+		  begin
+			#4000;
+			if(R_W)
+			  begin
+				// Read
+				data_in = mem[address];
+				#4000; MFC = 1; #2000; MFC = 0;
+			  end
+			else
+			  begin
+				// Write
+				mem[address] = data_out;
+				#4000; MFC = 1; #2000; MFC = 0;
+			  end
+		  end
+		else
+			data_in = 16'bz;
+	end
+
+
+endmodule

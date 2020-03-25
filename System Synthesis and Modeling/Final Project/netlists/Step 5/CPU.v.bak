@@ -1,0 +1,149 @@
+// Zack Fravel
+// System Synthesis and Modeling
+// Final Project
+
+module CPU(clk, reset, MFC, data_in, data_out, address, r_w, en);
+
+// ports
+	input clk; input reset; input MFC; input[15:0] data_in;
+	output wire[15:0] data_out; output wire[15:0] address;
+	output wire r_w; output wire en;
+
+// declare signals
+
+	tri[15:0] bus;
+
+	// Component Signals
+	wire PC_inc, PC_out_en; wire[15:0] PC_data_out;
+
+	wire[5:0] p1, p2; wire[15:0] ID_instruction_in; 
+	wire[3:0] ID_opcode;
+
+	wire ALU_regI1en, ALU_regI2en, ALU_regOen, ALU_enTriOut;
+	wire[2:0] ALU_operation;
+
+	wire MAR_en;
+
+	wire MDR_read, MDR_write, MDR_Out;
+
+	wire R1_in, R1_out, R2_in, R2_out, R3_in, R3_out, R4_in, R4_out;
+
+	// FSM Signals
+	wire Fetch_start, Fetch_MAR_in, Fetch_r_w, Fetch_memEn, Fetch_MDRread, Fetch_MDRout, IRinEn, ID_en;
+ 
+	wire Load_start, Load_PCinc, Load_R1Out, Load_R2Out, Load_R3Out, Load_R4Out, 
+	     Load_MARin, Load_MDRread, Load_memEn, Load_r_w, 
+	     Load_MDRout, Load_R1In, Load_R2In, Load_R3In, Load_R4In, Load_finish;
+
+	wire Store_start, Store_PCinc, Store_R1Out, Store_R2Out, Store_R3Out, 	     
+	     Store_R4Out, Store_MARin, Store_MDRwrite, Store_memEn, Store_r_w,Store_MDRout, 
+	     Store_Ra1Out, Store_Ra2Out, Store_Ra3Out, Store_Ra4Out, Store_finish;
+
+	wire Move_start, Move_PCinc, Move_R1Out, Move_R2Out, Move_R3Out, Move_R4Out, 
+	     Move_R1In, Move_R2In, Move_R3In, Move_R4In, Move_finish;
+
+	wire MovImm_start, MovImm_PCinc, MovImm_Ri1In, MovImm_Ri2In, MovImm_Ri3In, MovImm_Ri4In, MovImm_finish;
+
+	wire R_start, R_PCinc, R_Ri1Out, R_Ri2Out, R_Ri3Out, R_Ri4Out, R_ALUreg1, 
+	     R_Rj1Out, R_Rj2Out, R_Rj3Out, R_Rj4Out, R_ALUreg2, R_ALUregO, 
+	     R_Ri1In, R_Ri2In, R_Ri3In, R_Ri4In, R_ALUtri, R_finish;
+	wire[2:0] R_ALUop;
+
+	wire Imm_start, Imm_PCinc, Imm_Ri1Out, Imm_Ri2Out, Imm_Ri3Out, Imm_Ri4Out, 
+	     Imm_ALUreg1, Imm_ALUreg2, Imm_ALUregO, Imm_Ri1In, Imm_Ri2In, Imm_Ri3In, Imm_Ri4In, Imm_ALUtri, Imm_finish;
+       wire[2:0]Imm_ALUop;
+
+
+// make connections
+
+	// Program Counter
+	programCounter PC(clk, reset, PC_inc, PC_out_en, bus);
+
+	// General Purpose Registers
+	GPR GPR_1(clk, reset, bus, R1_in, R1_out, bus);
+	GPR GPR_2(clk, reset, bus, R2_in, R2_out, bus);
+	GPR GPR_3(clk, reset, bus, R3_in, R3_out, bus);
+	GPR GPR_4(clk, reset, bus, R4_in, R4_out, bus);
+
+	// Memory Address Register
+	MAR MAR(clk, reset, bus, MAR_en, address);
+
+	// Memory Data Register
+	MDR MDR(clk, reset, bus, bus, data_in, data_out, MDR_read, MDR_write, MDR_Out);
+
+	// ALU
+	final_alu ALU(clk, reset, bus, ALU_regI1en, ALU_regI2en, ALU_regOen, 
+			ALU_operation, ALU_enTriOut, bus);
+
+	// Instruction Register
+	MAR IR(clk, reset, bus, IRinEn, ID_instruction_in);
+
+	// Instruction Decoder
+	iDecoder ID(clk, reset, ID_en, ID_instruction_in, ID_opcode, R_start,Imm_start, Move_start, 
+			MovImm_start, Load_start, Store_start, p1, p2);
+
+	// Finite State Machines (Control Signal Generation)
+	fetch_FSM InstructionFetch(clk, reset, Fetch_start, PC_out_en, 
+			Fetch_MARin, Fetch_r_w, Fetch_memEn, Fetch_MDRread, 
+			Fetch_MDRout, IRinEn, MFC, ID_en);
+
+	Register_FSM R_FSM(clk, reset, R_start, R_PCinc, R_Ri1Out, R_Ri2Out, R_Ri3Out, R_Ri4Out, R_ALUreg1, 
+			R_Rj1Out, R_Rj2Out, R_Rj3Out,R_Rj4Out, R_ALUreg2, R_ALUregO, R_Ri1In, R_Ri2In, R_Ri3In, R_Ri4In, 
+			R_ALUtri, R_finish, p1, p2, ID_opcode, R_ALUop);
+
+	Immediate_FSM Imm_FSM(clk, reset, Imm_start, Imm_PCinc, Imm_Ri1Out, Imm_Ri2Out, Imm_Ri3Out, Imm_Ri4Out, 
+			Imm_ALUreg1, bus, Imm_ALUreg2, Imm_ALUregO, Imm_Ri1In, Imm_Ri2In, Imm_Ri3In, Imm_Ri4In, Imm_ALUtri, 
+			Imm_finish, p1, p2, ID_opcode, Imm_ALUop);
+
+	move_FSM Move_FSM(clk, reset, Move_start, Move_PCinc, Move_R1Out, Move_R2Out, Move_R3Out, Move_R4Out,  
+	  		Move_R1In, Move_R2In, Move_R3In, Move_R4In, p1, p2, Move_finish);
+
+	moveImm_FSM MoveImm_FSM(clk, reset, MovImm_start, MovImm_PCinc, bus, MovImm_Ri1In, MovImm_Ri2In, MovImm_Ri3In, MovImm_Ri4In, 
+			p1, p2, MovImm_finish);
+
+	Load_FSM Load_FSM(clk, reset, Load_start, MFC, Load_PCinc, Load_R1Out, Load_R2Out, Load_R3Out, Load_R4Out, Load_MARin, 			
+			Load_MDRread, Load_memEn, Load_r_w, Load_MDRout, Load_R1In, Load_R2In, Load_R3In, Load_R4In, p1, p2, Load_finish);
+
+	Store_FSM Store_FSM(clk, reset, Store_start, MFC, Store_PCinc, Store_R1Out, Store_R2Out, Store_R3Out, Store_R4Out, 				
+			Store_MARin, Store_MDRwrite, Store_memEn, Store_r_w, Store_MDRout, Store_Ra1Out, Store_Ra2Out, Store_Ra3Out, Store_Ra4Out, 
+			p1, p2, Store_finish);
+
+	// Assign Wire 'Or' Connections
+	assign r_w = (Fetch_r_w || Load_r_w || Store_r_w)?1:0;
+
+	assign en = (Fetch_memEn || Load_memEn || Store_memEn)?1:0;
+
+	assign PC_inc = (R_PCinc || Imm_PCinc || Move_PCinc || MovImm_PCinc || 		Load_PCinc || Store_PCinc)?1:0;
+
+	assign MAR_en = (Fetch_MARin || Load_MARin || Store_MARin)?1:0;
+
+	assign MDR_read = (Fetch_MDRread || Load_MDRread)?1:0;
+	assign MDR_write = (Store_MDRwrite)?1:0;
+	assign MDR_Out = (Fetch_MDRout || Load_MDRout || Store_MDRout)?1:0; 
+
+	assign R1_in = (R_Ri1In || Imm_Ri1In || Move_R1In || MovImm_Ri1In || 		Load_R1In)?1:0;
+
+	assign R2_in = (R_Ri2In || Imm_Ri2In || Move_R2In || MovImm_Ri2In || 		Load_R2In)?1:0;
+
+	assign R3_in = (R_Ri3In || Imm_Ri3In || Move_R3In || MovImm_Ri3In || 		Load_R3In)?1:0;
+
+	assign R4_in = (R_Ri4In || Imm_Ri4In || Move_R4In || MovImm_Ri4In || 		Load_R4In)?1:0;
+
+	assign R1_out = (R_Ri1Out || R_Rj1Out || Imm_Ri1Out || Move_R1Out || 		Load_R1Out || Store_R1Out || Store_Ra1Out)?1:0;
+
+	assign R2_out = (R_Ri2Out || R_Rj2Out || Imm_Ri2Out || Move_R2Out || 		Load_R2Out || Store_R2Out || Store_Ra2Out)?1:0;
+
+	assign R3_out = (R_Ri3Out || R_Rj3Out || Imm_Ri3Out || Move_R3Out || 		Load_R3Out || Store_R3Out || Store_Ra3Out)?1:0;
+
+	assign R4_out = (R_Ri4Out || R_Rj4Out || Imm_Ri4Out || Move_R4Out || 		Load_R4Out || Store_R4Out || Store_Ra4Out)?1:0;
+
+	assign ALU_regI1en = (R_ALUreg1 || Imm_ALUreg1)?1:0;
+	assign ALU_regI2en = (R_ALUreg2 || Imm_ALUreg2)?1:0;
+	assign ALU_regOen = (R_ALUregO || Imm_ALUregO)?1:0;
+	assign ALU_enTriOut = (R_ALUtri || Imm_ALUtri)?1:0;
+	assign ALU_operation = R_ALUop;
+
+	assign Fetch_start = (R_finish || Imm_finish || Move_finish || 			MovImm_finish || Load_finish || Store_finish)?1:0;
+
+
+endmodule

@@ -1,0 +1,60 @@
+****************************************
+Report : timing
+	-path_type full
+	-delay_type max
+	-max_paths 1
+	-group clk
+	-transition_time
+	-capacitance
+	-sort_by slack
+Design : fft8
+Version: M-2017.06-SP1
+Date   : Wed Dec  6 17:35:04 2017
+****************************************
+
+
+  Startpoint: stage15/codeBlockIsnt16764/tm253_reg[5]
+               (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: stage15/codeBlockIsnt16764/m15539/q_reg[0][12]
+               (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Point                                 Cap      Trans       Incr       Path
+  -----------------------------------------------------------------------------
+  clock clk (rise edge)                           0.00       0.00       0.00
+  clock network delay (ideal)                                0.00       0.00
+  stage15/codeBlockIsnt16764/tm253_reg[5]/CK (DFF_X1)
+                                                  0.00       0.00       0.00 r
+  stage15/codeBlockIsnt16764/tm253_reg[5]/Q (DFF_X1)
+                                      26.13       0.06       0.14 &     0.14 r
+  U10149/ZN (XNOR2_X1)                18.33       0.10       0.09 &     0.23 r
+  U10148/ZN (NAND2_X1)                16.24       0.04       0.07 &     0.30 f
+  U10151/ZN (OAI22_X1)                 3.50       0.04       0.06 &     0.36 r
+  U11072/CO (HA_X1)                    3.79       0.01       0.05 &     0.41 r
+  U11076/S (FA_X1)                     3.11       0.02       0.10 &     0.51 f
+  U11079/CO (FA_X1)                    3.55       0.02       0.07 &     0.58 f
+  U8855/ZN (NOR2_X1)                   5.51       0.03       0.05 &     0.63 r
+  U10096/ZN (OAI21_X1)                 1.82       0.01       0.02 &     0.65 f
+  U8835/ZN (AOI21_X1)                  6.34       0.04       0.07 &     0.72 r
+  U10063/ZN (INV_X1)                   4.29       0.01       0.02 &     0.74 f
+  U10034/ZN (AOI21_X1)                 2.38       0.02       0.03 &     0.77 r
+  U11476/ZN (XNOR2_X1)                 1.35       0.02       0.04 &     0.81 r
+  stage15/codeBlockIsnt16764/m15539/q_reg[0][12]/D (DFF_X1)
+                                                  0.02       0.00 &     0.81 r
+  data arrival time                                                     0.81
+
+  clock clk (rise edge)                           0.00       1.00       1.00
+  clock network delay (ideal)                                0.00       1.00
+  clock reconvergence pessimism                              0.00       1.00
+  stage15/codeBlockIsnt16764/m15539/q_reg[0][12]/CK (DFF_X1)            1.00 r
+  library setup time                                        -0.03       0.97
+  data required time                                                    0.97
+  -----------------------------------------------------------------------------
+  data required time                                                    0.97
+  data arrival time                                                    -0.81
+  -----------------------------------------------------------------------------
+  slack (MET)                                                           0.16
+
+
+1

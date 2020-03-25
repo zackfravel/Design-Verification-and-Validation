@@ -1,0 +1,59 @@
+catch { setAnalysisMode -analysisType onChipVariation }
+catch { setAnalysisMode -checkType setup }
+catch { setAnalysisMode -clkSrcPath true }
+catch { setAnalysisMode -clockPropagation sdcControl }
+catch { setAnalysisMode -usefulSkew true }
+catch { setAnalysisMode -virtualIPO false }
+catch { setOptMode -activeHoldViews { NG_view_typ } }
+catch { setOptMode -activeSetupViews { NG_view_typ } }
+catch { setOptMode -autoHoldViews { NG_view_typ } }
+catch { setOptMode -autoSetupViews { NG_view_typ} }
+catch { setOptMode -autoTDGRSetupViews { NG_view_typ} }
+catch { setOptMode -drcMargin 0 }
+catch { setOptMode -effort high }
+catch { setOptMode -fixCap true }
+catch { setOptMode -fixDrc true }
+catch { setOptMode -fixFanoutLoad false }
+catch { setOptMode -fixTran true }
+catch { setOptMode -optimizeFF true }
+catch { setOptMode -setupTargetSlack 0 }
+setExtractRCMode  -engine postRoute -coupled false -minNetTermNrToBeInMem 50
+catch {setNanoRouteMode -quiet -drouteAntennaFactor 1.000000}
+catch {setNanoRouteMode -quiet -drouteFixAntenna false}
+catch {setNanoRouteMode -quiet -droutePostRouteSpreadWire "auto"}
+catch {setNanoRouteMode -quiet -drouteStartIteration 0}
+catch {setNanoRouteMode -quiet -extractThirdPartyCompatible false}
+catch {setNanoRouteMode -quiet -grouteExpTdStdDelay 10.100000}
+catch {setNanoRouteMode -quiet -routeExpPreserveConstraints true}
+catch {setNanoRouteMode -quiet -routeExpSignatureEco false}
+catch {setNanoRouteMode -quiet -routeWithEco true}
+catch {setNanoRouteMode -quiet -routeWithSiDriven false}
+catch {setNanoRouteMode -quiet -routeWithSiPostRouteFix false}
+catch {setNanoRouteMode -quiet -routeWithTimingDriven false}
+catch {setNanoRouteMode -quiet -timingEngine ""}
+
+catch { setPlaceMode -place_design_floorplan_mode false }
+catch { setIlmMode -keepHighFanoutPorts true -keepLoopBack false -keepFlatten true }
+catch { setSrouteMode -viaConnectToShape noshape }
+catch { setDelayCalMode -enable_high_fanout true }
+catch { setDelayCalMode -eng_copyNetPropToNewNet true }
+catch { setDelayCalMode -engine aae }
+catch { setDelayCalMode -ignoreNetLoad false }
+catch { setDelayCalMode -SIAware false }
+catch { setTrialRouteMode -handlePreroute true }
+catch { setTrialRouteMode -keepMarkedOptRoutes true }
+catch { setAddRingMode -avoid_short false }
+catch { setAddRingMode -extend_over_row false }
+catch { setAddRingMode -ignore_rows false }
+catch { setAddRingMode -orthogonal_only true }
+catch { setAddRingMode -ring_target default }
+catch { setAddRingMode -skip_crossing_trunks none }
+catch { setAddRingMode -skip_via_on_pin standardcell }
+catch { setAddRingMode -skip_via_on_wire_shape noshape }
+catch { setAddRingMode -stacked_via_bottom_layer metal1 }
+catch { setAddRingMode -stacked_via_top_layer metal10 }
+catch { setAddRingMode -via_using_exact_crossover_size true }
+catch { setHierMode -disableArt false }
+catch { setHierMode -reportPostRouteArtTiming false }
+catch { setHierMode -trialRouteHonorReadOnly false }
+catch { setSIMode -separate_delta_delay_on_data true }

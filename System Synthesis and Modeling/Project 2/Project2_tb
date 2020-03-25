@@ -1,0 +1,48 @@
+// Zack Fravel
+// System Synthesis and Modeling
+// Project2_tb.v
+
+`timescale 1ns / 1ns
+module Project2_tb;
+// Declarations
+
+   // Inputs
+   reg[7:0] in0, in1, in2, in3, in4, in5, in6;
+
+   // Select input bits
+   reg sel0, sel1, sel2;
+
+   // Output Wire
+   wire[7:0] out;
+
+   // Instantiate 7:1 mux
+   Project2 test(in0, in1, in2, in3, in4, in5, in6, out, sel0, sel1, sel2);
+
+// Testbench
+
+// Set Inputs
+
+initial	// Test stimulus
+  begin
+	in0 = 8'b00000001;
+	in1 = 8'b00000010;
+	in2 = 8'b00000100;
+	in3 = 8'b00001000;
+	in4 = 8'b00010000;
+	in5 = 8'b00100000;
+	in6 = 8'b01000000;
+
+    #20 // wait before testing
+
+    #20	sel2 = 0; sel1 = 0; sel0 = 0;  // 000
+    #20	sel2 = 0; sel1 = 0; sel0 = 1;  // 001
+    #20	sel2 = 0; sel1 = 1; sel0 = 0;  // 010
+    #20	sel2 = 0; sel1 = 1; sel0 = 1;  // 011
+    #20	sel2 = 1; sel1 = 0; sel0 = 0;  // 100
+    #20	sel2 = 1; sel1 = 0; sel0 = 1;  // 101
+    #20	sel2 = 1; sel1 = 1; sel0 = 0;  // 110
+    #20	sel2 = 1; sel1 = 1; sel0 = 1;  // 111
+
+  end
+
+endmodule

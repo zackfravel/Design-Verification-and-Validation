@@ -1,0 +1,32 @@
+****************************************
+Report : Averaged Power
+Design : VQS64_4
+Version: M-2017.06-SP1
+Date   : Sat Nov 18 16:31:48 2017
+****************************************
+
+
+
+  Attributes
+  ----------
+      i  -  Including register clock pin internal power
+      u  -  User defined power group
+
+                        Internal  Switching  Leakage    Total
+Power Group             Power     Power      Power      Power   (     %)  Attrs
+--------------------------------------------------------------------------------
+clock_network           5.569e-04    0.0000    0.0000 5.569e-04 (39.95%)  i
+register                2.295e-04 9.434e-05 6.076e-05 3.846e-04 (27.59%)  
+combinational           1.701e-04 2.305e-04 5.202e-05 4.526e-04 (32.47%)  
+sequential                 0.0000    0.0000    0.0000    0.0000 ( 0.00%)  
+memory                     0.0000    0.0000    0.0000    0.0000 ( 0.00%)  
+io_pad                     0.0000    0.0000    0.0000    0.0000 ( 0.00%)  
+black_box                  0.0000    0.0000    0.0000    0.0000 ( 0.00%)  
+
+  Net Switching Power  = 3.248e-04   (23.30%)
+  Cell Internal Power  = 9.566e-04   (68.61%)
+  Cell Leakage Power   = 1.128e-04   ( 8.09%)
+                         ---------
+Total Power            = 1.394e-03  (100.00%)
+
+1

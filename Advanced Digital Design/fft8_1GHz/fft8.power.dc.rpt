@@ -1,0 +1,53 @@
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : fft8
+Version: M-2016.12-SP5
+Date   : Wed Dec  6 16:48:41 2017
+****************************************
+
+
+Library(s) Used:
+
+    NangateOpenCellLibrary (File: /home/zpfravel/Desktop/fft8/lib/db/NangateOpenCellLibrary_typical_ecsm.db)
+
+
+Operating Conditions: typical   Library: NangateOpenCellLibrary
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+fft8                   5K_hvratio_1_1    NangateOpenCellLibrary
+
+
+Global Operating Voltage = 1.1  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+  Cell Internal Power  =  67.3782 mW   (94%)
+  Net Switching Power  =   4.3316 mW    (6%)
+                         ---------
+Total Dynamic Power    =  71.7099 mW  (100%)
+
+Cell Leakage Power     =   1.4803 mW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      0.0000            0.0000            0.0000            0.0000  (   0.00%)
+register       6.5784e+04          718.3482        8.3034e+05        6.7333e+04  (  92.00%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational  1.5930e+03        3.6132e+03        6.4996e+05        5.8561e+03  (   8.00%)
+--------------------------------------------------------------------------------------------------
+Total          6.7377e+04 uW     4.3315e+03 uW     1.4803e+06 nW     7.3189e+04 uW
+1

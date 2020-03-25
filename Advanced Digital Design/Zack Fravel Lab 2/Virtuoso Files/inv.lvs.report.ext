@@ -1,0 +1,45 @@
+
+
+       #############################################################
+       ##                                                         ##
+       ##               C A L I B R E    S Y S T E M              ##
+       ##                                                         ##
+       ##    C I R C U I T   E X T R A C T I O N   R E P O R T    ##
+       ##                                                         ##
+       #############################################################
+
+
+REPORT FILE NAME:         inv.lvs.report.ext
+LAYOUT NAME:              inv.calibre.db ('inv')
+CREATION TIME:            Sun Oct  8 20:18:50 2017
+CURRENT DIRECTORY:        /home/zpfravel/Documents/AdvancedDigitalDesign/Lab2/virtuoso/rundir
+USER NAME:                zpfravel@uark.edu
+CALIBRE VERSION:          v2017.2_28.22    Tue Jun 6 14:38:29 PDT 2017
+
+
+
+Extraction Errors and Warnings for cell "inv"
+---------------------------------------------
+
+WARNING:  Unattached label:
+          Name  "_"  at location  (-1.1,0.16)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "A"  at location  (-1.11,0)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "A"  at location  (0.675,0.01)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "GND"  at location  (1.42,-0.88)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "VDD"  at location  (1.36,0.93)  on layer  11 "metal1"
+
+
+WARNING: Unattached port "A" at location (-1.11,0) in cell "inv"
+WARNING: Unattached port "_" at location (-1.1,0.16) in cell "inv"
+WARNING: Unattached port "A" at location (0.675,0.01) in cell "inv"
+WARNING: Unattached port "VDD" at location (1.36,0.93) in cell "inv"
+WARNING: Unattached port "GND" at location (1.42,-0.88) in cell "inv"
+

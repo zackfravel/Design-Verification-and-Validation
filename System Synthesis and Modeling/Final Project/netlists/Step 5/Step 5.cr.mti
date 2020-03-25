@@ -1,0 +1,271 @@
+{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/LoadFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\LoadFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Load_FSM
+
+Top level modules:
+	Load_FSM
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/iDecoder.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/iDecoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/iDecoder.v 
+-- Compiling module iDecoder
+
+Top level modules:
+	iDecoder
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/FetchFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\FetchFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fetch_FSM
+
+Top level modules:
+	fetch_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ProgramCounter.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/FetchFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/FetchFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/FetchFSM.v 
+-- Compiling module fetch_FSM
+
+Top level modules:
+	fetch_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ProgramCounter.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ProgramCounter.v 
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MAR.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\MAR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MAR
+
+Top level modules:
+	MAR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/GPR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/GPR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/GPR.v 
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/GPR.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\GPR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/StoreFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/StoreFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/StoreFSM.v 
+-- Compiling module Store_FSM
+
+Top level modules:
+	Store_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\CPU_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ImmediateFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\ImmediateFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Immediate_FSM
+
+Top level modules:
+	Immediate_FSM
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/LoadFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/LoadFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/LoadFSM.v 
+-- Compiling module Load_FSM
+
+Top level modules:
+	Load_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/iDecoder.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\iDecoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module iDecoder
+
+Top level modules:
+	iDecoder
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveImmFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\moveImmFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moveImm_FSM
+
+Top level modules:
+	moveImm_FSM
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v 
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveImmFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveImmFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveImmFSM.v 
+-- Compiling module moveImm_FSM
+
+Top level modules:
+	moveImm_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MAR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MAR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MAR.v 
+-- Compiling module MAR
+
+Top level modules:
+	MAR
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/StoreFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\StoreFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Store_FSM
+
+Top level modules:
+	Store_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/RegisterFSM.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\RegisterFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Register_FSM
+
+Top level modules:
+	Register_FSM
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/RegisterFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/RegisterFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/RegisterFSM.v 
+-- Compiling module Register_FSM
+
+Top level modules:
+	Register_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MDR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MDR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MDR.v 
+-- Compiling module MDR
+
+Top level modules:
+	MDR
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/final_alu.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/final_alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/final_alu.v 
+-- Compiling module final_alu
+
+Top level modules:
+	final_alu
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/final_alu.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\final_alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module final_alu
+
+Top level modules:
+	final_alu
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/MDR.v} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 5\MDR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MDR
+
+Top level modules:
+	MDR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v 
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveFSM.v 
+-- Compiling module move_FSM
+
+Top level modules:
+	move_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ImmediateFSM.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ImmediateFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 15:35:44 on Dec 06,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/ImmediateFSM.v 
+-- Compiling module Immediate_FSM
+
+Top level modules:
+	Immediate_FSM
+End time: 15:35:44 on Dec 06,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/moveFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module move_FSM
+
+Top level modules:
+	move_FSM
+
+} {} {}}

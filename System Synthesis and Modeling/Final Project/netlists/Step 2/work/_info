@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Meryl/Documents/Embedded Systems/Lab 5
+vGPR
+Z0 !s110 1478723238
+!i10b 1
+!s100 `:RKUFQNa`O3kRSe4>BlH1
+I<GiXF0@_h7h2[aNH?z>g01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2
+w1478722664
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1478723238.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@g@p@r
+vGPR_tb
+R0
+!i10b 1
+!s100 Cbef3kK9oZS`eBWWU3RS]3
+I4LcDD]SGLoFoVC6dj[k:<0
+R1
+R2
+w1478723071
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@g@p@r_tb
+vMAR
+R0
+!i10b 1
+!s100 UJg;CUg]hl_iA[QflFGCb3
+IP9Y=UCISnWg@KKVH6@QdT3
+R1
+R2
+w1478720637
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v|
+!s101 -O0
+!i113 1
+R5
+n@m@a@r
+vMAR_tb
+R0
+!i10b 1
+!s100 PlF?Mog5:TVa8Y0>0X5_R2
+I1o`Dk`fIRXk2[dSC[@Nan2
+R1
+R2
+w1478720629
+8C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb
+FC:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb|
+!s101 -O0
+!i113 1
+R5
+n@m@a@r_tb
+vMDR
+R0
+!i10b 1
+!s100 <YDzBlY`]fYYCSl^m=Oi01
+I1iD<2Fck=o3AQ4eTa<zZL3
+R1
+R2
+w1478721809
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v|
+!s101 -O0
+!i113 1
+R5
+n@m@d@r
+vMDR_tb
+R0
+!i10b 1
+!s100 7L3WL5;T2:7;@m]cZk;_d3
+IJdXK:RoWh4@hIdzBgfKVj0
+R1
+R2
+w1478721705
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@m@d@r_tb
+vprogramCounter
+R0
+!i10b 1
+!s100 cV]0RJM<4?ib[mhEi;I^m1
+I8>YnMCTBLe[7SBAK[]z;j1
+R1
+R2
+w1478652374
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v|
+!s101 -O0
+!i113 1
+R5
+nprogram@counter
+vprogramCounter_tb
+R0
+!i10b 1
+!s100 OfQkb@Xgz::N9bmNmMiQ`0
+IgXBKIX2G:J;:BEBmJZnk=2
+R1
+R2
+w1478652665
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v|
+!s101 -O0
+!i113 1
+R5
+nprogram@counter_tb

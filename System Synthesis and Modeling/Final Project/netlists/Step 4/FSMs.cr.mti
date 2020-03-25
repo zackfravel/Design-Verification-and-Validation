@@ -1,0 +1,85 @@
+{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/moveImmFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/moveImmFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moveImm_FSM
+
+Top level modules:
+	moveImm_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/StoreFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/StoreFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Store_FSM
+
+Top level modules:
+	Store_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM_tb
+
+Top level modules:
+	FSM_tb
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb2.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM_tb2
+
+Top level modules:
+	FSM_tb2
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb3.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM_tb3
+
+Top level modules:
+	FSM_tb3
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb4.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM_tb4
+
+Top level modules:
+	FSM_tb4
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb5.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FSM_tb5.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM_tb5
+
+Top level modules:
+	FSM_tb5
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FetchFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/FetchFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fetch_FSM
+
+Top level modules:
+	fetch_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/RegisterFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/RegisterFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Register_FSM
+
+Top level modules:
+	Register_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/moveFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/moveFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module move_FSM
+
+Top level modules:
+	move_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/ImmediateFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/ImmediateFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Immediate_FSM
+
+Top level modules:
+	Immediate_FSM
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/LoadFSM.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 4/LoadFSM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Load_FSM
+
+Top level modules:
+	Load_FSM
+
+} {} {}}

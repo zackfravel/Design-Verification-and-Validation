@@ -1,0 +1,145 @@
+{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:16 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v 
+-- Compiling module MDR
+
+Top level modules:
+	MDR
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module programCounter_tb
+
+Top level modules:
+	programCounter_tb
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module GPR_tb
+
+Top level modules:
+	GPR_tb
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:17 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v 
+-- Compiling module MAR_tb
+
+Top level modules:
+	MAR_tb
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR_tb} {1 {vlog -work work -stats=none {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MAR_tb
+
+Top level modules:
+	MAR_tb
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR_tb}} {1 {vlog -work work {C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:17 on Nov 09,2016
+vlog -reportprogress 300 -work work C:\Users\Meryl\Documents\System Synthesis and Modeling\Final Project\Step 2\MAR_tb 
+-- Compiling module MAR_tb
+
+Top level modules:
+	MAR_tb
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:16 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR.v 
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+End time: 11:44:16 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MDR
+
+Top level modules:
+	MDR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:17 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter_tb.v 
+-- Compiling module programCounter_tb
+
+Top level modules:
+	programCounter_tb
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:17 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/GPR_tb.v 
+-- Compiling module MAR_tb
+
+Top level modules:
+	MAR_tb
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MDR_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MDR_tb
+
+Top level modules:
+	MDR_tb
+
+} {} {}} {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v} {1 {vlog -work work -stats=none {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MAR
+
+Top level modules:
+	MAR
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:16 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/MAR.v 
+-- Compiling module MAR
+
+Top level modules:
+	MAR
+End time: 11:44:16 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v}} {1 {vlog -work work {C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 11:44:17 on Nov 09,2016
+vlog -reportprogress 300 -work work C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 2/ProgramCounter.v 
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+End time: 11:44:17 on Nov 09,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

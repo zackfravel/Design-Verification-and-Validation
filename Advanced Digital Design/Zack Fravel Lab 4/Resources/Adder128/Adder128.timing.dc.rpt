@@ -1,0 +1,159 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : Adder128
+Version: M-2016.12-SP5
+Date   : Sun Nov  5 13:09:31 2017
+****************************************
+
+Operating Conditions: typical   Library: gscl45nm
+Wire Load Model Mode: top
+
+  Startpoint: cin (input port)
+  Endpoint: sum[127] (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  cin (in)                                 0.00       0.00 f
+  intadd_0/U129/YC (FAX1)                  0.08       0.08 f
+  intadd_0/U128/YC (FAX1)                  0.08       0.17 f
+  intadd_0/U127/YC (FAX1)                  0.08       0.25 f
+  intadd_0/U126/YC (FAX1)                  0.08       0.33 f
+  intadd_0/U125/YC (FAX1)                  0.08       0.41 f
+  intadd_0/U124/YC (FAX1)                  0.08       0.49 f
+  intadd_0/U123/YC (FAX1)                  0.08       0.57 f
+  intadd_0/U122/YC (FAX1)                  0.08       0.65 f
+  intadd_0/U121/YC (FAX1)                  0.08       0.74 f
+  intadd_0/U120/YC (FAX1)                  0.08       0.82 f
+  intadd_0/U119/YC (FAX1)                  0.08       0.90 f
+  intadd_0/U118/YC (FAX1)                  0.08       0.98 f
+  intadd_0/U117/YC (FAX1)                  0.08       1.06 f
+  intadd_0/U116/YC (FAX1)                  0.08       1.14 f
+  intadd_0/U115/YC (FAX1)                  0.08       1.23 f
+  intadd_0/U114/YC (FAX1)                  0.08       1.31 f
+  intadd_0/U113/YC (FAX1)                  0.08       1.39 f
+  intadd_0/U112/YC (FAX1)                  0.08       1.47 f
+  intadd_0/U111/YC (FAX1)                  0.08       1.55 f
+  intadd_0/U110/YC (FAX1)                  0.08       1.63 f
+  intadd_0/U109/YC (FAX1)                  0.08       1.71 f
+  intadd_0/U108/YC (FAX1)                  0.08       1.80 f
+  intadd_0/U107/YC (FAX1)                  0.08       1.88 f
+  intadd_0/U106/YC (FAX1)                  0.08       1.96 f
+  intadd_0/U105/YC (FAX1)                  0.08       2.04 f
+  intadd_0/U104/YC (FAX1)                  0.08       2.12 f
+  intadd_0/U103/YC (FAX1)                  0.08       2.20 f
+  intadd_0/U102/YC (FAX1)                  0.08       2.28 f
+  intadd_0/U101/YC (FAX1)                  0.08       2.37 f
+  intadd_0/U100/YC (FAX1)                  0.08       2.45 f
+  intadd_0/U99/YC (FAX1)                   0.08       2.53 f
+  intadd_0/U98/YC (FAX1)                   0.08       2.61 f
+  intadd_0/U97/YC (FAX1)                   0.08       2.69 f
+  intadd_0/U96/YC (FAX1)                   0.08       2.77 f
+  intadd_0/U95/YC (FAX1)                   0.08       2.85 f
+  intadd_0/U94/YC (FAX1)                   0.08       2.94 f
+  intadd_0/U93/YC (FAX1)                   0.08       3.02 f
+  intadd_0/U92/YC (FAX1)                   0.08       3.10 f
+  intadd_0/U91/YC (FAX1)                   0.08       3.18 f
+  intadd_0/U90/YC (FAX1)                   0.08       3.26 f
+  intadd_0/U89/YC (FAX1)                   0.08       3.34 f
+  intadd_0/U88/YC (FAX1)                   0.08       3.43 f
+  intadd_0/U87/YC (FAX1)                   0.08       3.51 f
+  intadd_0/U86/YC (FAX1)                   0.08       3.59 f
+  intadd_0/U85/YC (FAX1)                   0.08       3.67 f
+  intadd_0/U84/YC (FAX1)                   0.08       3.75 f
+  intadd_0/U83/YC (FAX1)                   0.08       3.83 f
+  intadd_0/U82/YC (FAX1)                   0.08       3.91 f
+  intadd_0/U81/YC (FAX1)                   0.08       4.00 f
+  intadd_0/U80/YC (FAX1)                   0.08       4.08 f
+  intadd_0/U79/YC (FAX1)                   0.08       4.16 f
+  intadd_0/U78/YC (FAX1)                   0.08       4.24 f
+  intadd_0/U77/YC (FAX1)                   0.08       4.32 f
+  intadd_0/U76/YC (FAX1)                   0.08       4.40 f
+  intadd_0/U75/YC (FAX1)                   0.08       4.48 f
+  intadd_0/U74/YC (FAX1)                   0.08       4.57 f
+  intadd_0/U73/YC (FAX1)                   0.08       4.65 f
+  intadd_0/U72/YC (FAX1)                   0.08       4.73 f
+  intadd_0/U71/YC (FAX1)                   0.08       4.81 f
+  intadd_0/U70/YC (FAX1)                   0.08       4.89 f
+  intadd_0/U69/YC (FAX1)                   0.08       4.97 f
+  intadd_0/U68/YC (FAX1)                   0.08       5.06 f
+  intadd_0/U67/YC (FAX1)                   0.08       5.14 f
+  intadd_0/U66/YC (FAX1)                   0.08       5.22 f
+  intadd_0/U65/YC (FAX1)                   0.08       5.30 f
+  intadd_0/U64/YC (FAX1)                   0.08       5.38 f
+  intadd_0/U63/YC (FAX1)                   0.08       5.46 f
+  intadd_0/U62/YC (FAX1)                   0.08       5.54 f
+  intadd_0/U61/YC (FAX1)                   0.08       5.63 f
+  intadd_0/U60/YC (FAX1)                   0.08       5.71 f
+  intadd_0/U59/YC (FAX1)                   0.08       5.79 f
+  intadd_0/U58/YC (FAX1)                   0.08       5.87 f
+  intadd_0/U57/YC (FAX1)                   0.08       5.95 f
+  intadd_0/U56/YC (FAX1)                   0.08       6.03 f
+  intadd_0/U55/YC (FAX1)                   0.08       6.11 f
+  intadd_0/U54/YC (FAX1)                   0.08       6.20 f
+  intadd_0/U53/YC (FAX1)                   0.08       6.28 f
+  intadd_0/U52/YC (FAX1)                   0.08       6.36 f
+  intadd_0/U51/YC (FAX1)                   0.08       6.44 f
+  intadd_0/U50/YC (FAX1)                   0.08       6.52 f
+  intadd_0/U49/YC (FAX1)                   0.08       6.60 f
+  intadd_0/U48/YC (FAX1)                   0.08       6.68 f
+  intadd_0/U47/YC (FAX1)                   0.08       6.77 f
+  intadd_0/U46/YC (FAX1)                   0.08       6.85 f
+  intadd_0/U45/YC (FAX1)                   0.08       6.93 f
+  intadd_0/U44/YC (FAX1)                   0.08       7.01 f
+  intadd_0/U43/YC (FAX1)                   0.08       7.09 f
+  intadd_0/U42/YC (FAX1)                   0.08       7.17 f
+  intadd_0/U41/YC (FAX1)                   0.08       7.26 f
+  intadd_0/U40/YC (FAX1)                   0.08       7.34 f
+  intadd_0/U39/YC (FAX1)                   0.08       7.42 f
+  intadd_0/U38/YC (FAX1)                   0.08       7.50 f
+  intadd_0/U37/YC (FAX1)                   0.08       7.58 f
+  intadd_0/U36/YC (FAX1)                   0.08       7.66 f
+  intadd_0/U35/YC (FAX1)                   0.08       7.74 f
+  intadd_0/U34/YC (FAX1)                   0.08       7.83 f
+  intadd_0/U33/YC (FAX1)                   0.08       7.91 f
+  intadd_0/U32/YC (FAX1)                   0.08       7.99 f
+  intadd_0/U31/YC (FAX1)                   0.08       8.07 f
+  intadd_0/U30/YC (FAX1)                   0.08       8.15 f
+  intadd_0/U29/YC (FAX1)                   0.08       8.23 f
+  intadd_0/U28/YC (FAX1)                   0.08       8.31 f
+  intadd_0/U27/YC (FAX1)                   0.08       8.40 f
+  intadd_0/U26/YC (FAX1)                   0.08       8.48 f
+  intadd_0/U25/YC (FAX1)                   0.08       8.56 f
+  intadd_0/U24/YC (FAX1)                   0.08       8.64 f
+  intadd_0/U23/YC (FAX1)                   0.08       8.72 f
+  intadd_0/U22/YC (FAX1)                   0.08       8.80 f
+  intadd_0/U21/YC (FAX1)                   0.08       8.89 f
+  intadd_0/U20/YC (FAX1)                   0.08       8.97 f
+  intadd_0/U19/YC (FAX1)                   0.08       9.05 f
+  intadd_0/U18/YC (FAX1)                   0.08       9.13 f
+  intadd_0/U17/YC (FAX1)                   0.08       9.21 f
+  intadd_0/U16/YC (FAX1)                   0.08       9.29 f
+  intadd_0/U15/YC (FAX1)                   0.08       9.37 f
+  intadd_0/U14/YC (FAX1)                   0.08       9.46 f
+  intadd_0/U13/YC (FAX1)                   0.08       9.54 f
+  intadd_0/U12/YC (FAX1)                   0.08       9.62 f
+  intadd_0/U11/YC (FAX1)                   0.08       9.70 f
+  intadd_0/U10/YC (FAX1)                   0.08       9.78 f
+  intadd_0/U9/YC (FAX1)                    0.08       9.86 f
+  intadd_0/U8/YC (FAX1)                    0.08       9.94 f
+  intadd_0/U7/YC (FAX1)                    0.08      10.03 f
+  intadd_0/U6/YC (FAX1)                    0.08      10.11 f
+  intadd_0/U5/YC (FAX1)                    0.08      10.19 f
+  intadd_0/U4/YC (FAX1)                    0.08      10.27 f
+  intadd_0/U3/YC (FAX1)                    0.08      10.35 f
+  intadd_0/U2/YS (FAX1)                    0.07      10.43 f
+  sum[127] (out)                           0.00      10.43 f
+  data arrival time                                  10.43
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1

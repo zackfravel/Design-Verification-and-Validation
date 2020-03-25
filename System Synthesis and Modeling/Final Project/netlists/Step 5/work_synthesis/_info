@@ -1,0 +1,7609 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5
+vAND2X1
+Z1 !s110 1481174365
+!i10b 1
+!s100 oDS_`fJ;J:^4jkTPiDUL_2
+IXZmQ3;mQ3oZO68TD1n>>50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1475708440
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X1.v
+Z4 L0 27
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1481174365.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X1.v|
+!s101 -O0
+!i113 1
+Z7 o-work work_synthesis -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@n@d2@x1
+vAND2X2
+R1
+!i10b 1
+!s100 kN`Dc1aIB:4dQeL`aM<1E0
+Ig]b`fk[8iikmJkfZno1:Q2
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d2@x2
+vAND2X4
+R1
+!i10b 1
+!s100 7?75^:AQEWoKh7GY2aHOC0
+I7[BV`dDnQd5^GYI0Qn19W0
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X4.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND2X4.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d2@x4
+vAND3X1
+R1
+!i10b 1
+!s100 d]RHLba`Z]kOgm43=MW2W3
+I?UaJ?4Z`O8:QO;U?dB]U>3
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d3@x1
+vAND3X2
+R1
+!i10b 1
+!s100 >gBJK3N3?=HNoWm9iTdYN1
+Ii87=zXTm6I88SClTJAjgR0
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d3@x2
+vAND3X4
+R1
+!i10b 1
+!s100 2255fklcAVh;0J5n[L5`j1
+I]4T<;nZaLM_o]G>cYj=K]0
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X4.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND3X4.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d3@x4
+vAND4X1
+R1
+!i10b 1
+!s100 WiXfFQ_0a60a2f[Wc[oi33
+I6CT<X?jX90P]7J^b?Sl;22
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d4@x1
+vAND4X2
+R1
+!i10b 1
+!s100 PnN;jh:M[E1VDQ2a7C?9F2
+I53DWAb3lZYi>ag@=Jf83`3
+R2
+R0
+R3
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d4@x2
+vAND4X4
+R1
+!i10b 1
+!s100 ^C6<9R[m0[d35f[kDlPI?2
+I3[51PYo0oze?i0=7m_DgB0
+R2
+R0
+Z8 w1475708441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X4.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AND4X4.v|
+!s101 -O0
+!i113 1
+R7
+n@a@n@d4@x4
+vAO21X1
+R1
+!i10b 1
+!s100 E3V9lTIC_28Al9NHWbn^W2
+I3iZFLJ46mHbbSXCZbX[>G2
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o21@x1
+vAO21X2
+R1
+!i10b 1
+!s100 EHoJbCKDIgDRAXeiHcQn31
+IoE:6GAZf^TV683_HX_LA`2
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO21X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o21@x2
+vAO221X1
+R1
+!i10b 1
+!s100 IF56]h2b1:_Q4U3<M3aVT2
+IDY[A0KElYCQzmk[QbZ2`U1
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o221@x1
+vAO221X2
+R1
+!i10b 1
+!s100 JodMNcKLGI2CbR?7jSLIE0
+IJHYcU^RFoMYWMkEG7oEQE0
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO221X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o221@x2
+vAO222X1
+R1
+!i10b 1
+!s100 [6K:dkEhH7af^`RSTBAL?2
+I>ci4>20`>9bl6S8QgfcUd0
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o222@x1
+vAO222X2
+R1
+!i10b 1
+!s100 ]gi9Z?WRA@0^ibKS1cle]0
+IVzKELd9EQMWnC7`hT8PEG2
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO222X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o222@x2
+vAO22X1
+R1
+!i10b 1
+!s100 UJC[G?LXSIRd7hRia?DcD1
+I@oNo_90db5j<4[k8PUonD2
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o22@x1
+vAO22X2
+R1
+!i10b 1
+!s100 [hIROBY`3cz=99I;F9?id1
+IHLIkWCZVOG6Lk]I@5kiDg0
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X2.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AO22X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o22@x2
+vAOBUFX1
+Z9 !s110 1481174366
+!i10b 1
+!s100 dRKiX@84^@fEk]kzg1zP02
+Ik`5_0CdL[[F4E7WjW6G1H1
+R2
+R0
+R8
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX1.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@b@u@f@x1
+vAOBUFX2
+R9
+!i10b 1
+!s100 nAhTNHm>=fS3nlS?]4M^z3
+I`H103h1dadZ7o=3D=bAR<3
+R2
+R0
+Z10 w1475708442
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX2.v
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1481174366.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@b@u@f@x2
+vAOBUFX4
+R9
+!i10b 1
+!s100 M9j?:?z[50EIBl4AI@`5Z1
+I[_JlC<AP@Wz>kZAR2[=E20
+R2
+R0
+R10
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX4.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOBUFX4.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@b@u@f@x4
+vAODFFARX1
+R9
+!i10b 1
+!s100 e1XXj=DVm;OcGI9eI?YQl2
+I[M1?^AYI;zPWR:Z]GKQKM2
+R2
+R0
+R10
+Z12 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX1.v
+Z13 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z14 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX1.v|
+Z15 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@d@f@f@a@r@x1
+vAODFFARX2
+R9
+!i10b 1
+!s100 KkeDm^DIc;O_QD5e5EFEH2
+IJWh6SmAlCNS@C3HH@^noW0
+R2
+R0
+R10
+Z16 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX2.v
+Z17 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z18 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX2.v|
+Z19 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFARX2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@d@f@f@a@r@x2
+vAODFFNARX1
+R9
+!i10b 1
+!s100 j[7<:kVhD2k]BDeL96c@k2
+I??zZQMDmP`mTJ?ijmTU8K1
+R2
+R0
+R10
+Z20 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX1.v
+Z21 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z22 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX1.v|
+Z23 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@d@f@f@n@a@r@x1
+vAODFFNARX2
+R9
+!i10b 1
+!s100 ^RLToah6cNJJQIT?n_k@I1
+I;U_jK?Vi`U_@[^_E1daSC1
+R2
+R0
+R10
+Z24 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX2.v
+Z25 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z26 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX2.v|
+Z27 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AODFFNARX2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@d@f@f@n@a@r@x2
+vAOI21X1
+R9
+!i10b 1
+!s100 eNRI85EG^c?We6Bk84P4D2
+IAVH^]cMcmi[BVS`nN:C?O0
+R2
+R0
+R10
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i21@x1
+vAOI21X2
+R9
+!i10b 1
+!s100 [XzAUFZE3<a75XSOHl1642
+Icfn=Ai2N75XjS2H@=2XGF0
+R2
+R0
+R10
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI21X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i21@x2
+vAOI221X1
+R9
+!i10b 1
+!s100 U9UXj?4Y@IjNdS5Jg@R]A2
+IGfQI1[D:39BE?ZQ>MBJ1I0
+R2
+R0
+R10
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i221@x1
+vAOI221X2
+R9
+!i10b 1
+!s100 eTPJ2U<R:cdDK6oR>Rk3`0
+IR4XZc1C11W^mS=58lkcC73
+R2
+R0
+R10
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI221X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i221@x2
+vAOI222X1
+R9
+!i10b 1
+!s100 QJECK^REOS?f68`GLKg[;2
+ISBH?D?eEcgR>Q_aG8QGlf3
+R2
+R0
+Z28 w1475708443
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i222@x1
+vAOI222X2
+R9
+!i10b 1
+!s100 OGaCoBAGo7gcXF1lk[iH]1
+I:iSD1NPBlI9_251jc:XP41
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI222X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i222@x2
+vAOI22X1
+R9
+!i10b 1
+!s100 N9dnSmlo@ZlKCDM3DinP=3
+IzzlUG^Y>b618h`1Al?ZHI1
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i22@x1
+vAOI22X2
+R9
+!i10b 1
+!s100 >n?8YUQlcW:;BA3FGEQ2f3
+I:RNJXh[4lHEJn2FZN05N>2
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOI22X2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i22@x2
+vAOINVX1
+R9
+!i10b 1
+!s100 W=[^4iRg:gm6PaLYd_SRi3
+InQgae_;C=P_PDC?`@OWke1
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX1.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX1.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i@n@v@x1
+vAOINVX2
+R9
+!i10b 1
+!s100 UGaSh4;Xh4TO9ehZ3=g2i0
+I?mgDXM_Qeo@LkCfON?nWA2
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX2.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i@n@v@x2
+vAOINVX4
+R9
+!i10b 1
+!s100 e=Zfm4gd4o7f2S:gB46@a0
+IFMW;a8o7_47PX?9Sm68ZA2
+R2
+R0
+R28
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX4.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/AOINVX4.v|
+!s101 -O0
+!i113 1
+R7
+n@a@o@i@n@v@x4
+vCGLNPRX2
+R9
+!i10b 1
+!s100 PGIJAAY]Dl18D]X9MA26_2
+Id8EjmdglZIJ^;@ePbe8R]2
+R2
+R0
+R28
+Z29 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX2.v
+Z30 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z31 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX2.v|
+Z32 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@r@x2
+vCGLNPRX8
+R9
+!i10b 1
+!s100 EXQI3N]5R_4bHG6[M1naD0
+IH2D5AZ@CoaVEia`objzHX2
+R2
+R0
+R28
+Z33 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX8.v
+Z34 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX8.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z35 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX8.v|
+Z36 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPRX8.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@r@x8
+vCGLNPSX16
+Z37 !s110 1481174367
+!i10b 1
+!s100 eYgg_cS_VK2^ObILhQ9Q^3
+INUFf4?9VMHT4gH:dI69aH2
+R2
+R0
+R28
+Z38 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX16.v
+Z39 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX16.v
+R4
+R5
+r1
+!s85 0
+31
+Z40 !s108 1481174367.000000
+Z41 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX16.v|
+Z42 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX16.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@s@x16
+vCGLNPSX2
+R9
+!i10b 1
+!s100 :kLnQDTCB[A7izMe8lLa<3
+I0b1BafF:4Og`lIAA^Lbm^2
+R2
+R0
+Z43 w1475708444
+Z44 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX2.v
+Z45 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX2.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z46 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX2.v|
+Z47 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX2.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@s@x2
+vCGLNPSX4
+R9
+!i10b 1
+!s100 ERD[m[g]6Ca8fMX5AOoKP3
+IO>LQ_N@AE4^e]hZhQmicc0
+R2
+R0
+R43
+Z48 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX4.v
+Z49 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX4.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z50 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX4.v|
+Z51 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX4.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@s@x4
+vCGLNPSX8
+R37
+!i10b 1
+!s100 `jjlUm1R;>BAB^L;@`0V90
+ID6]2TMPF0OUj@XF0]Dom80
+R2
+R0
+R43
+Z52 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX8.v
+Z53 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX8.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z54 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX8.v|
+Z55 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLNPSX8.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@n@p@s@x8
+vCGLPPRX2
+R37
+!i10b 1
+!s100 HXCMaKiTn@5<8OADEL:_A2
+I1ojDA5?I?6A@RO5Z80>3?0
+R2
+R0
+R43
+Z56 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX2.v
+Z57 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z58 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX2.v|
+Z59 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@r@x2
+vCGLPPRX8
+R37
+!i10b 1
+!s100 k@0B1m9LbRS1<S9c<F[@Z3
+I]DfX:LgNh0^J2NnWNOEM73
+R2
+R0
+R43
+Z60 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX8.v
+Z61 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX8.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z62 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX8.v|
+Z63 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPRX8.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@r@x8
+vCGLPPSX16
+R37
+!i10b 1
+!s100 Q7XFg^g[d[I6F4j38o39<2
+IbGa<PbL9]@QnH_200[ngF3
+R2
+R0
+R43
+Z64 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX16.v
+Z65 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX16.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z66 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX16.v|
+Z67 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX16.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@s@x16
+vCGLPPSX2
+R37
+!i10b 1
+!s100 5=jEd6U1]de`J8>P=;9^N3
+IbmdAbV11T7@]>iCJ5LD5k2
+R2
+R0
+R43
+Z68 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX2.v
+Z69 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z70 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX2.v|
+Z71 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX2.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@s@x2
+vCGLPPSX4
+R37
+!i10b 1
+!s100 T9ngZS4=j9Bo`eDGe2AKS1
+I]dO6NJ@?=zgboI0?mHhb71
+R2
+R0
+R43
+Z72 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX4.v
+Z73 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX4.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z74 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX4.v|
+Z75 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX4.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@s@x4
+vCGLPPSX8
+R37
+!i10b 1
+!s100 cSUWmMV]@BlL1[7SFPn[90
+InK6<_e_2^JZ^_onDJlT6B3
+R2
+R0
+R43
+Z76 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX8.v
+Z77 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX8.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z78 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX8.v|
+Z79 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/CGLPPSX8.v|
+!s101 -O0
+!i113 1
+R7
+n@c@g@l@p@p@s@x8
+vCPU
+!s110 1481174053
+!i10b 1
+!s100 >[`Bf;bf5Jh<[`6iTjeD70
+IOM;I@JMO0<0TR9a1j?[mZ0
+R2
+R0
+w1481139676
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1481174053.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU.v|
+!s101 -O0
+!i113 1
+R7
+n@c@p@u
+vCPU_tb
+!s110 1481174473
+!i10b 1
+!s100 7_H9e]6AiDAcIYOhZh6lS2
+Ii90KJ2l9BYKGRje=m4Ebc3
+R2
+R0
+w1481174452
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v
+L0 6
+R5
+r1
+!s85 0
+31
+!s108 1481174473.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/Final Project/Step 5/CPU_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@c@p@u_tb
+vDEC24X1
+R37
+!i10b 1
+!s100 P24@28dJS56NX=`:G0?4O1
+Il6BMZkBVBhg9m30WcX_PI2
+R2
+R0
+Z80 w1475708445
+Z81 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X1.v
+Z82 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z83 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X1.v|
+Z84 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@e@c24@x1
+vDEC24X2
+R37
+!i10b 1
+!s100 C2gmgc:l1BJlBhiJ1jQF_3
+IWPI18?jD]c_CfAUOde<nJ1
+R2
+R0
+R80
+Z85 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X2.v
+Z86 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z87 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X2.v|
+Z88 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DEC24X2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@e@c24@x2
+vDELLN1X2
+R37
+!i10b 1
+!s100 `J[j89<d@IHdXMULcHkO@3
+I:aniNaYodg3d5YX8SFf_=3
+R2
+R0
+R80
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN1X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN1X2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN1X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN1X2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@e@l@l@n1@x2
+vDELLN2X2
+R37
+!i10b 1
+!s100 BUDnSK`2M8]P7GAY_=6?B1
+I@85Bm`oke[00=YgnediC91
+R2
+R0
+R80
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN2X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@e@l@l@n2@x2
+vDELLN3X2
+R37
+!i10b 1
+!s100 :MhfjS1d_VKVZBf5_CSmT3
+IXK80zjGIbZhQ>UITb=Jgi1
+R2
+R0
+R80
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN3X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DELLN3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@e@l@l@n3@x2
+vDFFARX1
+R37
+!i10b 1
+!s100 0X[]N`79NzeSOYlk9nX^Q0
+I9[j8=YCU`ll7AGQNa@4ZJ0
+R2
+R0
+R80
+Z89 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX1.v
+Z90 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z91 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX1.v|
+Z92 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@r@x1
+vDFFARX2
+R37
+!i10b 1
+!s100 9@?;ZCA7UA;fFZNzF3i_`0
+Iob6LZ^TfUF7e542_Yi<hk1
+R2
+R0
+R80
+Z93 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX2.v
+Z94 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z95 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX2.v|
+Z96 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFARX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@r@x2
+vDFFASRX1
+R37
+!i10b 1
+!s100 P1:OifmT=kM^J`]mZJJJ10
+IGEa6Q2kSZM;jzG3YBEnH73
+R2
+R0
+R80
+Z97 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX1.v
+Z98 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z99 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX1.v|
+Z100 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@s@r@x1
+vDFFASRX2
+R37
+!i10b 1
+!s100 ieEQ2EaNA4DCbaW074cDE3
+IW?3]O9DO>:8ZaN9<:ckNT1
+R2
+R0
+R80
+Z101 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX2.v
+Z102 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z103 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX2.v|
+Z104 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@s@r@x2
+vDFFASX1
+R37
+!i10b 1
+!s100 eOlEh2Oz<5<CWON7?Lai=2
+IOo=o11>f>n=?l]GBK[<=?2
+R2
+R0
+Z105 w1475708446
+Z106 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX1.v
+Z107 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z108 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX1.v|
+Z109 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@s@x1
+vDFFASX2
+R37
+!i10b 1
+!s100 Z4a0jnY]2aGT;Q]A=UR[G0
+Iz;3WP:?FI1>[`1AXEhcD23
+R2
+R0
+R105
+Z110 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX2.v
+Z111 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z112 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX2.v|
+Z113 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFASX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@a@s@x2
+vDFFNARX1
+R37
+!i10b 1
+!s100 L6=hmUj>Gf?6OLk?:BC<z1
+Ic[GM_>YM5K>@^1dOdGH5e1
+R2
+R0
+R105
+Z114 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX1.v
+Z115 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z116 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX1.v|
+Z117 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@r@x1
+vDFFNARX2
+R37
+!i10b 1
+!s100 WDg5<MgoVIPk2:IHkTQPk3
+IjTXRh?_7o?NW[<Z24ZRRe0
+R2
+R0
+R105
+Z118 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX2.v
+Z119 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z120 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX2.v|
+Z121 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNARX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@r@x2
+vDFFNASRNX1
+R37
+!i10b 1
+!s100 <9ag@Z=hM@PVmMBS<4XEL2
+IVl66P7QCcoX8VYIYTkk`Z3
+R2
+R0
+R105
+Z122 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX1.v
+Z123 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z124 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX1.v|
+Z125 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@n@x1
+vDFFNASRNX2
+Z126 !s110 1481174368
+!i10b 1
+!s100 >JB]cTfk]Vh_zb6]PbReN1
+IfAzod^Egbf7:;BjkocXch3
+R2
+R0
+R105
+Z127 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX2.v
+Z128 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+Z129 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX2.v|
+Z130 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRNX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@n@x2
+vDFFNASRQX1
+R126
+!i10b 1
+!s100 Lo0P5UVRVF0Nz4KF8K3bf3
+I?d@nX63V3j=n_[_n6njKe1
+R2
+R0
+R105
+Z131 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX1.v
+Z132 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX1.v
+R4
+R5
+r1
+!s85 0
+31
+Z133 !s108 1481174368.000000
+Z134 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX1.v|
+Z135 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@q@x1
+vDFFNASRQX2
+R126
+!i10b 1
+!s100 J7ZT=Pa06_BMmo@7nJez03
+IU0`@cQzSOQ>PGmV4DP_Qd1
+R2
+R0
+R105
+Z136 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX2.v
+Z137 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z138 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX2.v|
+Z139 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRQX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@q@x2
+vDFFNASRX1
+R126
+!i10b 1
+!s100 hgUB70EDT[<;o6D7hKVYj0
+ITDhdUn>6V8e9OnF<:LHG>0
+R2
+R0
+R105
+Z140 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX1.v
+Z141 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z142 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX1.v|
+Z143 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@x1
+vDFFNASRX2
+R126
+!i10b 1
+!s100 5Rc13R=d6NK;]CLP9_KmO0
+I^F3H3=V;D34Xfe`lhM_4c2
+R2
+R0
+R105
+Z144 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX2.v
+Z145 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z146 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX2.v|
+Z147 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@r@x2
+vDFFNASX1
+R126
+!i10b 1
+!s100 U3T=nfO@XV@86jeU@k@m^3
+INHiM]SJbQcUZIN@]JnS[<2
+R2
+R0
+Z148 w1475708447
+Z149 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX1.v
+Z150 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z151 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX1.v|
+Z152 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@x1
+vDFFNASX2
+R126
+!i10b 1
+!s100 9VN3zDI6GCPmnNoSASVSA0
+IN]ie3J]LJeHOG9PE@ZLlH0
+R2
+R0
+R148
+Z153 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX2.v
+Z154 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z155 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX2.v|
+Z156 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNASX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@a@s@x2
+vDFFNX1
+R126
+!i10b 1
+!s100 P;5V>L=1W4N@=BnG60QI62
+Ia@95Z;Mo_S7_G5Ui3;`cJ2
+R2
+R0
+R148
+Z157 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX1.v
+Z158 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z159 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX1.v|
+Z160 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@x1
+vDFFNX2
+R126
+!i10b 1
+!s100 gfbHF=2JMON6dP]zl2E5`2
+IfZCCNa9PkXkg`l?VaJcV61
+R2
+R0
+R148
+Z161 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX2.v
+Z162 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z163 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX2.v|
+Z164 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFNX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@n@x2
+vDFFSSRX1
+R126
+!i10b 1
+!s100 m:99deeQIOUH1P1LY5WEO1
+I=27VU:`7<hI=I<B5LGfc@3
+R2
+R0
+R148
+Z165 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX1.v
+Z166 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z167 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX1.v|
+Z168 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@s@s@r@x1
+vDFFSSRX2
+R126
+!i10b 1
+!s100 7aKAkSh;Z8E9h@PWRk3h93
+IKhC`44`N6YzOUZR549X780
+R2
+R0
+R148
+Z169 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX2.v
+Z170 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z171 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX2.v|
+Z172 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFSSRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@s@s@r@x2
+vDFFX1
+R126
+!i10b 1
+!s100 75Q^M;JXU2ec;`m[eS5@i0
+I^7m`TA=;ON<O[AQNRMVnR1
+R2
+R0
+R148
+Z173 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX1.v
+Z174 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z175 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX1.v|
+Z176 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX1.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@x1
+vDFFX2
+R126
+!i10b 1
+!s100 :86RRlZc3KKXE>Z`P1?Am0
+I8^6mdNTR?RA8nLVbi5>0=0
+R2
+R0
+R148
+Z177 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX2.v
+Z178 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z179 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX2.v|
+Z180 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/DFFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@d@f@f@x2
+vFADDX1
+R126
+!i10b 1
+!s100 BW:@;ibhCOMQU@B^OiL662
+IQAzh:^Ao?C9cUloziZXPO2
+R2
+R0
+R148
+Z181 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX1.v
+Z182 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z183 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX1.v|
+Z184 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX1.v|
+!s101 -O0
+!i113 1
+R7
+n@f@a@d@d@x1
+vFADDX2
+R126
+!i10b 1
+!s100 Re:YcOHiBGmQLA:d<W=L[3
+InAD:Fn7h550MFiRa^aDco1
+R2
+R0
+R148
+Z185 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX2.v
+Z186 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+Z187 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX2.v|
+Z188 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/FADDX2.v|
+!s101 -O0
+!i113 1
+R7
+n@f@a@d@d@x2
+vfetch_FSM
+!s110 1481186970
+!i10b 1
+!s100 h5JAW:U=hK:43^A[nh2aJ1
+IJ24boG4fden^9IKVD;R0N0
+R2
+R0
+w1481184516
+8X:/Windows/System Synth/syn/synFetch.v
+FX:/Windows/System Synth/syn/synFetch.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1481186970.000000
+!s107 X:/Windows/System Synth/syn/synFetch.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synFetch.v|
+!s101 -O0
+!i113 1
+R7
+nfetch_@f@s@m
+vfinal_alu
+Z189 !s110 1481181875
+!i10b 1
+!s100 QP1XaRICNPFlz7j?oYfB=1
+I`8lH6XKIfQ?3`Z?e:n:kQ0
+R2
+R0
+Z190 w1481181796
+Z191 8//Mac/Home/Dropbox/Windows/System Synth/syn/synALU.v
+Z192 F//Mac/Home/Dropbox/Windows/System Synth/syn/synALU.v
+L0 56
+R5
+r1
+!s85 0
+31
+Z193 !s108 1481181875.000000
+Z194 !s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synALU.v|
+Z195 !s90 -reportprogress|300|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synALU.v|
+!s101 -O0
+!i113 1
+R7
+vfinal_alu_DW01_addsub_0
+R189
+!i10b 1
+!s100 [7N3OLb[7_>m5KKSA=13k0
+I`g;F8ShRTgDm^9JWi;z<l3
+R2
+R0
+R190
+R191
+R192
+L0 2
+R5
+r1
+!s85 0
+31
+R193
+R194
+R195
+!s101 -O0
+!i113 1
+R7
+nfinal_alu_@d@w01_addsub_0
+vGPR
+Z196 !s110 1481179334
+!i10b 1
+!s100 4_ZfgKXE=^8S;X9nn34em2
+I7gKRGQ96f?7cehIlK[Go73
+R2
+R0
+w1481179293
+8//Mac/Home/Dropbox/Windows/System Synth/syn/synGPR.v
+F//Mac/Home/Dropbox/Windows/System Synth/syn/synGPR.v
+L0 2
+R5
+r1
+!s85 0
+31
+Z197 !s108 1481179334.000000
+!s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synGPR.v|
+!s90 -reportprogress|300|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synGPR.v|
+!s101 -O0
+!i113 1
+R7
+n@g@p@r
+vHADDX1
+R126
+!i10b 1
+!s100 X<zj_hb_fDj0HUTX5JgD@3
+I79[l7Oh=8CP`i60?PzzQT3
+R2
+R0
+Z198 w1475708448
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX1.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX1.v|
+!s101 -O0
+!i113 1
+R7
+n@h@a@d@d@x1
+vHADDX2
+R126
+!i10b 1
+!s100 3D9nM`e?8<1em?ei1@[7A2
+ISenZ<k4Te^<>Tz;JAHH6j0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/HADDX2.v|
+!s101 -O0
+!i113 1
+R7
+n@h@a@d@d@x2
+vIBUFFX16
+R126
+!i10b 1
+!s100 jd_Mj6Mo6GXnc]5Z45YD:1
+IF5dV8<J8NmdPO@?6zQ;Xc0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX16.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX16.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX16.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX16.v|
+!s101 -O0
+!i113 1
+R7
+n@i@b@u@f@f@x16
+vIBUFFX2
+R126
+!i10b 1
+!s100 =C4nL27^G_MZLSZ4Yjb^I3
+I8C7iOWQ1Qm6LZjE@gZ?DV1
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX2.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@i@b@u@f@f@x2
+vIBUFFX32
+R126
+!i10b 1
+!s100 K4DQz1HR:UWTFgPG1@zz52
+IG[hUQ8L3`:^QgjnKZZ_7<0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX32.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX32.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX32.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX32.v|
+!s101 -O0
+!i113 1
+R7
+n@i@b@u@f@f@x32
+vIBUFFX4
+R126
+!i10b 1
+!s100 ^_^1EVcEbg2fo40WT1zWg0
+I_Lc;bNXY0Gd><5=O^1@][0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX4.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX4.v|
+!s101 -O0
+!i113 1
+R7
+n@i@b@u@f@f@x4
+vIBUFFX8
+R126
+!i10b 1
+!s100 M=O`07mz;H>j2<fo`[4403
+IJh1n[_GBg3z:a0PD`CjUF2
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX8.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/IBUFFX8.v|
+!s101 -O0
+!i113 1
+R7
+n@i@b@u@f@f@x8
+viDecoder
+R189
+!i10b 1
+!s100 YYQmni`I07AMBkHJ>:l9Y2
+IVJSK1PE=Dc;[E;TGAUJ[R2
+R2
+R0
+R190
+8//Mac/Home/Dropbox/Windows/System Synth/syn/synID.v
+F//Mac/Home/Dropbox/Windows/System Synth/syn/synID.v
+L0 2
+R5
+r1
+!s85 0
+31
+R193
+!s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synID.v|
+!s90 -reportprogress|30|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synID.v|
+!s101 -O0
+!i113 1
+R7
+ni@decoder
+vImmediate_FSM
+!s110 1481185670
+!i10b 1
+!s100 e>8J<l0i0N9cdOD`3QRMe1
+IdOnm`2nF89CTFhk:33gRT2
+R2
+R0
+Z199 w1481185651
+8X:/Windows/System Synth/syn/synImm.v
+FX:/Windows/System Synth/syn/synImm.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1481185670.000000
+!s107 X:/Windows/System Synth/syn/synImm.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synImm.v|
+!s101 -O0
+!i113 1
+R7
+n@immediate_@f@s@m
+vINVX0
+R126
+!i10b 1
+!s100 ZhiBb62[i6c@7X]F[4>U_0
+I8O8PbgO:P1JTa1meOIUb^0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX0.v
+R4
+R5
+r1
+!s85 0
+31
+R133
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX0.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x0
+vINVX1
+Z200 !s110 1481174369
+!i10b 1
+!s100 `mmVj@lC6zL4nGI@aFKSm1
+IR[FFaZo9NK9^OQH22ZmTR0
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX1.v
+R4
+R5
+r1
+!s85 0
+31
+Z201 !s108 1481174369.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX1.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x1
+vINVX16
+R200
+!i10b 1
+!s100 c=1gzN4YKcbckJz;E4G203
+If;Qa_[g^UM88g3WeG;;Ta3
+R2
+R0
+R198
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX16.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX16.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX16.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX16.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x16
+vINVX2
+R200
+!i10b 1
+!s100 eGMa4]ZL=Gag9MgW[3FG?0
+I8YUFNB;iQR7z`9@0Vz3=40
+R2
+R0
+Z202 w1475708449
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX2.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x2
+vINVX32
+R200
+!i10b 1
+!s100 <zlV]6AZ]A>ALU^D@>7:i1
+I9QTP2jlzQPYdLzGj@IU8]2
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX32.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX32.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX32.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX32.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x32
+vINVX4
+R200
+!i10b 1
+!s100 U3o=>5Ykz@om[G>1Cn5X<1
+IdKO916:fkz?f8I6SU9keY0
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX4.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX4.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x4
+vINVX8
+R200
+!i10b 1
+!s100 D>`Lo3Y]JUCMKeC;fB0QH1
+IXg;ROS;JjRBJ7<6Pl7ba_2
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX8.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/INVX8.v|
+!s101 -O0
+!i113 1
+R7
+n@i@n@v@x8
+vISOLANDX1
+R200
+!i10b 1
+!s100 Vnc_GHPl1ZU1mLFoa]`>20
+I6RIHIfLJVA0R:AS3@DZ<W0
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX1.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@a@n@d@x1
+vISOLANDX2
+R200
+!i10b 1
+!s100 WDXe4`S@C?zIog_HHm[kf3
+IeED;P<[IjIfCh3A87c;IB3
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX2.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@a@n@d@x2
+vISOLANDX4
+R200
+!i10b 1
+!s100 TUIOnETHmHJb9Ubec0kW03
+IO`EOE:6gmIN3C6HHdkZ8@1
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX4.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX4.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@a@n@d@x4
+vISOLANDX8
+R200
+!i10b 1
+!s100 T@hG:@[[nlZ;]WdcL0=^B3
+IoGD<B^i:VN5_FiN7@ImM12
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX8.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLANDX8.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@a@n@d@x8
+vISOLORX1
+R200
+!i10b 1
+!s100 FRWFjb]dbR@UCN8AITV3F2
+IDEElWYKO<LE`zHJ<4FNbG0
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX1.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@o@r@x1
+vISOLORX2
+R200
+!i10b 1
+!s100 W6m0E38MbaI`>H:P^MlkP0
+ICTHg<THDOjaiFJLj?0ABh0
+R2
+R0
+R202
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX2.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@o@r@x2
+vISOLORX4
+R200
+!i10b 1
+!s100 fXSWe@jZ[:czIZ2JGWlUH1
+IAD[Bb`I`ZG>WzPlf@?gC52
+R2
+R0
+Z203 w1475708450
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX4.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX4.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@o@r@x4
+vISOLORX8
+R200
+!i10b 1
+!s100 VN3:<lbNB63h1C>Dga]Vn0
+IT[WO[1f9BC;SE@1JU<@oe0
+R2
+R0
+R203
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX8.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/ISOLORX8.v|
+!s101 -O0
+!i113 1
+R7
+n@i@s@o@l@o@r@x8
+vLARX1
+R200
+!i10b 1
+!s100 nU2H65oJ@Occ1>XT128cZ2
+I95`jJHAoFMFgh7PGd31m60
+R2
+R0
+R203
+Z204 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX1.v
+Z205 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z206 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX1.v|
+Z207 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@r@x1
+vLARX2
+R200
+!i10b 1
+!s100 Q<E7EaQ=`G5SVbo0NB6=]0
+ImMSC57>l<`BhJQ_Rm1blI3
+R2
+R0
+R203
+Z208 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX2.v
+Z209 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z210 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX2.v|
+Z211 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LARX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@r@x2
+vLASRNX1
+R200
+!i10b 1
+!s100 h8Pe>Aa?d11TUPGDenza>0
+Iz`XMKGD<O<5dNKW;jl<aT2
+R2
+R0
+R203
+Z212 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX1.v
+Z213 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z214 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX1.v|
+Z215 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@n@x1
+vLASRNX2
+R200
+!i10b 1
+!s100 k0VoM[MAKahinC5n[I7B<0
+IQ_WC9F3U86b4P4[F`Y5lE1
+R2
+R0
+R203
+Z216 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX2.v
+Z217 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z218 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX2.v|
+Z219 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRNX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@n@x2
+vLASRQX1
+R200
+!i10b 1
+!s100 jD<2>2C5F9fzGGcTlYSI@0
+IAVjQZDXidiJFYXViK[LYB3
+R2
+R0
+R203
+Z220 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX1.v
+Z221 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z222 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX1.v|
+Z223 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@q@x1
+vLASRQX2
+R200
+!i10b 1
+!s100 :iiA_QO=W63gPmmA75KcZ2
+IASbI[ZaoYi7T;0dd;<7PU3
+R2
+R0
+R203
+Z224 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX2.v
+Z225 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z226 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX2.v|
+Z227 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRQX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@q@x2
+vLASRX1
+R200
+!i10b 1
+!s100 RKCmALZ6Xkz`I@h_zAm=E0
+IX:[]nPlC[c0T@OdS^B`GM2
+R2
+R0
+R203
+Z228 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX1.v
+Z229 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z230 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX1.v|
+Z231 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@x1
+vLASRX2
+R200
+!i10b 1
+!s100 fbk:ceELGi:fc4j;IIoA73
+I3hYB6hQ1aBSzA>Z]_PjQf1
+R2
+R0
+R203
+Z232 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX2.v
+Z233 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX2.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z234 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX2.v|
+Z235 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASRX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@r@x2
+vLASX1
+Z236 !s110 1481174370
+!i10b 1
+!s100 fJW:z__T0z>RAD1NjozP00
+I<2X_MHUDimjlFeToJ5<bc2
+R2
+R0
+Z237 w1475708451
+Z238 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX1.v
+Z239 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX1.v
+R4
+R5
+r1
+!s85 0
+31
+R201
+Z240 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX1.v|
+Z241 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@x1
+vLASX2
+R236
+!i10b 1
+!s100 6OT9@lanl=bH15R?bmXd?1
+I`ZLGni1kdQYEBze181ZS70
+R2
+R0
+R237
+Z242 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX2.v
+Z243 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX2.v
+R4
+R5
+r1
+!s85 0
+31
+Z244 !s108 1481174370.000000
+Z245 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX2.v|
+Z246 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LASX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@s@x2
+vLATCHX1
+R236
+!i10b 1
+!s100 N9[gI3=hHc83;;5>RQRfM0
+I8Ob1Yl?:gg_`k_8EVN_PZ3
+R2
+R0
+R237
+Z247 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX1.v
+Z248 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+Z249 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX1.v|
+Z250 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@t@c@h@x1
+vLATCHX2
+R236
+!i10b 1
+!s100 S0EZ6Z4mTo4zY8[zM[fh<1
+I`H66fXN:CLmY6;;5gK^Pk0
+R2
+R0
+R237
+Z251 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX2.v
+Z252 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+Z253 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX2.v|
+Z254 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LATCHX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@a@t@c@h@x2
+vLNANDX1
+R236
+!i10b 1
+!s100 jinTS4P=NzPdb@[]MKo0=3
+I9526S0Pd59=z:TNF:BCDl2
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@n@a@n@d@x1
+vLNANDX2
+R236
+!i10b 1
+!s100 4;B>QWg57=X_44GaKgoUZ3
+IAbT2eT2eoRo0D=@N96=Ec1
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LNANDX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@n@a@n@d@x2
+vLoad_FSM
+Z255 !s110 1481186565
+!i10b 1
+!s100 ]dcoFH>P[UFcE0L=EleH:0
+I8P?R@C<ldMF^@^MIzT20n1
+R2
+R0
+Z256 w1481186548
+8X:/Windows/System Synth/syn/synLoad.v
+FX:/Windows/System Synth/syn/synLoad.v
+L0 2
+R5
+r1
+!s85 0
+31
+Z257 !s108 1481186565.000000
+!s107 X:/Windows/System Synth/syn/synLoad.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synLoad.v|
+!s101 -O0
+!i113 1
+R7
+n@load_@f@s@m
+vLSDNENX1
+R236
+!i10b 1
+!s100 3HKajLNPG`hmC7bajdYb03
+IfNkM_O_DzaLSa3i_21<@82
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@e@n@x1
+vLSDNENX2
+R236
+!i10b 1
+!s100 VTP6VUkDYj3R8F=cnJ>093
+IJSI]XRg0UF0knQ2eF0Ub10
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@e@n@x2
+vLSDNENX4
+R236
+!i10b 1
+!s100 FZ@?zd?kSI=6[8fj>92lO2
+IJM]]Wl5gL9IF>;3hfnC>Q3
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx4.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx4.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@e@n@x4
+vLSDNENX8
+R236
+!i10b 1
+!s100 F6;5O0RCV?WPXX5Cde1e?2
+Ih2=mlP@[]`mcT8Ln0@?0c1
+R2
+R0
+R237
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx8.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNENx8.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@e@n@x8
+vLSDNX1
+R236
+!i10b 1
+!s100 A[mnz6iPfcbi7UhBN1]@a1
+IkG=fQnH7c0I9o3N^[C66@3
+R2
+R0
+Z258 w1475708452
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@x1
+vLSDNX2
+R236
+!i10b 1
+!s100 F@Qm`@b4Ya>SPLJ@b487:1
+I90e?Gl<_7:_4_SHc>39e_0
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@x2
+vLSDNX4
+R236
+!i10b 1
+!s100 2E;0^`=72@:Sa[LOe5]cV3
+IC?X1=f7;K^_mdd9X=;Y`V3
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX4.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX4.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@x4
+vLSDNX8
+R236
+!i10b 1
+!s100 JhC[4@eBSh0k^caKJRzSe3
+I1ggNTk1RJ<3POU4@EmV9N3
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX8.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSDNX8.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@d@n@x8
+vLSUPENX1
+R236
+!i10b 1
+!s100 :Cn0OV8[CRT2^36F091B70
+IC3m5<QIXELSdM3W7g6<>H0
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@e@n@x1
+vLSUPENX2
+R236
+!i10b 1
+!s100 EaICWE`=YdzH[?4kcX6`l3
+I>:B1::C:=@<Z5m_H0:0=>2
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@e@n@x2
+vLSUPENX4
+R236
+!i10b 1
+!s100 b1QWBCl@]C8M8^TZLa1Cc0
+Im:nJMl6F1XCP:e[JV4VRk1
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx4.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx4.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@e@n@x4
+vLSUPENX8
+R236
+!i10b 1
+!s100 ]_fIo2Il@=VMO`PG:L>?k3
+I6`NgNk9ES>OY<8a8THLHC1
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx8.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPENx8.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@e@n@x8
+vLSUPX1
+R236
+!i10b 1
+!s100 DNEm;MFcg]OXn;ckj_?`^3
+I?N:<=`gmPSG2@XkDIeUb62
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX1.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@x1
+vLSUPX2
+R236
+!i10b 1
+!s100 Ve5a2j?o<FN_`hm_:jR540
+IR;TCMcH]5YB[TlU]S^nNm0
+R2
+R0
+R258
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX2.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX2.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@x2
+vLSUPX4
+R236
+!i10b 1
+!s100 ?B3Fm228L]lXU[Vi<Dd2K3
+IonAFbB<BIg8jU4X5H]K9Y3
+R2
+R0
+Z259 w1475708453
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX4.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX4.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@x4
+vLSUPX8
+R236
+!i10b 1
+!s100 eSATKQ6an[jgIgjGeX52U3
+I>GDz6j>`;@E:SUGJmkVQ?2
+R2
+R0
+R259
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX8.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/LSUPX8.v|
+!s101 -O0
+!i113 1
+R7
+n@l@s@u@p@x8
+vMAR
+R196
+!i10b 1
+!s100 zBC7]hVbc=VT9ClMAmaf42
+I[`<R0^kO0<CK7JOXL?:8R1
+R2
+R0
+Z260 w1481179292
+8//Mac/Home/Dropbox/Windows/System Synth/syn/synMAR.v
+F//Mac/Home/Dropbox/Windows/System Synth/syn/synMAR.v
+L0 2
+R5
+r1
+!s85 0
+31
+R197
+!s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synMAR.v|
+!s90 -reportprogress|300|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synMAR.v|
+!s101 -O0
+!i113 1
+R7
+n@m@a@r
+vMDR
+R196
+!i10b 1
+!s100 [PDZCWWhLS65TT@je1NLS1
+Imm>2U9[QI@i]@mn5P<h5U0
+R2
+R0
+R260
+8//Mac/Home/Dropbox/Windows/System Synth/syn/synMDR.v
+F//Mac/Home/Dropbox/Windows/System Synth/syn/synMDR.v
+L0 2
+R5
+r1
+!s85 0
+31
+R197
+!s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synMDR.v|
+!s90 -reportprogress|300|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synMDR.v|
+!s101 -O0
+!i113 1
+R7
+n@m@d@r
+vmove_FSM
+!s110 1481185069
+!i10b 1
+!s100 [45BGM;g9ebBlBI`bn0H?3
+IghN:T2HUAFNJ]m8SC]Xf<3
+R2
+R0
+Z261 w1481185048
+8X:/Windows/System Synth/syn/synMOV.v
+FX:/Windows/System Synth/syn/synMOV.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1481185069.000000
+!s107 X:/Windows/System Synth/syn/synMOV.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synMOV.v|
+!s101 -O0
+!i113 1
+R7
+nmove_@f@s@m
+vmoveImm_FSM
+!s110 1481185067
+!i10b 1
+!s100 @Ubz0YPWeJegcZLegMBD43
+IXid_]^[WdXoGKcY?zUNH@2
+R2
+R0
+R261
+8X:/Windows/System Synth/syn/synMOVImm.v
+FX:/Windows/System Synth/syn/synMOVImm.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1481185067.000000
+!s107 X:/Windows/System Synth/syn/synMOVImm.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synMOVImm.v|
+!s101 -O0
+!i113 1
+R7
+nmove@imm_@f@s@m
+vMUX21X1
+R236
+!i10b 1
+!s100 K]09BRZnDd9KIg263O_JQ0
+In?EW[<;<I@7dXL4T:GKCQ2
+R2
+R0
+R259
+Z262 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X1.v
+Z263 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X1.v
+R4
+R5
+r1
+!s85 0
+31
+R244
+Z264 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X1.v|
+Z265 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X1.v|
+!s101 -O0
+!i113 1
+R7
+n@m@u@x21@x1
+vMUX21X2
+Z266 !s110 1481174371
+!i10b 1
+!s100 _<dHz@[A=HkczeAD2U[2;0
+I6Ql=_eFHgI7KPGN=8V4^91
+R2
+R0
+R259
+Z267 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X2.v
+Z268 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X2.v
+R4
+R5
+r1
+!s85 0
+31
+Z269 !s108 1481174371.000000
+Z270 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X2.v|
+Z271 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX21X2.v|
+!s101 -O0
+!i113 1
+R7
+n@m@u@x21@x2
+vMUX41X1
+R266
+!i10b 1
+!s100 UCggE^HeIQKFmLfW[R>lM1
+IVeYhM>ejz1KV6O6R4oLh11
+R2
+R0
+R259
+Z272 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X1.v
+Z273 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X1.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+Z274 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X1.v|
+Z275 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X1.v|
+!s101 -O0
+!i113 1
+R7
+n@m@u@x41@x1
+vMUX41X2
+R266
+!i10b 1
+!s100 Q:5Y=ohg_<Zo7i;8QHBmz3
+IanT4C5ObV4bCkY^`Ge2462
+R2
+R0
+R259
+Z276 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X2.v
+Z277 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X2.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+Z278 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X2.v|
+Z279 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/MUX41X2.v|
+!s101 -O0
+!i113 1
+R7
+n@m@u@x41@x2
+vNAND2X0
+R266
+!i10b 1
+!s100 JE^kY[GF11?4B_HzdbDW;0
+IAZf4kX:MZJMd_k`CQi6N`1
+R2
+R0
+R259
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X0.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d2@x0
+vNAND2X1
+R266
+!i10b 1
+!s100 <JLz]BZ;F:ZkBzSPEEad]1
+IaEC>?ZfYl3em7;onnN[;B2
+R2
+R0
+R259
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X1.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d2@x1
+vNAND2X2
+R266
+!i10b 1
+!s100 8JX7]Yg@6`MdT89NR6N;j2
+IRU[7OHcDeNo42Pdn<8J4F0
+R2
+R0
+R259
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d2@x2
+vNAND2X4
+R266
+!i10b 1
+!s100 Ek4@k`Y>ie]:T9QE_:08b1
+IXYlkhSQMBOoj<R5k]magN1
+R2
+R0
+R259
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X4.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND2X4.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d2@x4
+vNAND3X0
+R266
+!i10b 1
+!s100 `XKzKon[I;dPgK9CE6I311
+In@kc1[:7Qlf_1N@EJXI[J0
+R2
+R0
+Z280 w1475708454
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X0.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d3@x0
+vNAND3X1
+R266
+!i10b 1
+!s100 V9OMMU;H3b=DJho]PlM;H0
+I?hS25KWL:n;I`Vg^D3W=L1
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d3@x1
+vNAND3X2
+R266
+!i10b 1
+!s100 oWA8N_>N`h_KPO1WdHQR@1
+IM<_HER_1zAFZ9;hDl;CFj2
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d3@x2
+vNAND3X4
+R266
+!i10b 1
+!s100 Qf`CFmiko>4_2DYXWV0D^2
+IQ08;IM31DS5=BL_jciL983
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X4.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND3X4.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d3@x4
+vNAND4X0
+R266
+!i10b 1
+!s100 6k`XZJlcIU4MzCYh^1S650
+IEYLo2N=?]mXlZf`9F9czW2
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X0.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d4@x0
+vNAND4X1
+R266
+!i10b 1
+!s100 jW;[mZC:MgSjVQ2cF4agR0
+IXB^B@Je5YmGFMRK@I66=g0
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X1.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NAND4X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@a@n@d4@x1
+vNBUFFX16
+R266
+!i10b 1
+!s100 SW^LfUH98=S==^V8kg2`f0
+I1N@`LN8VOXzkkn=HVVRcB2
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX16.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX16.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX16.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX16.v|
+!s101 -O0
+!i113 1
+R7
+n@n@b@u@f@f@x16
+vNBUFFX2
+R266
+!i10b 1
+!s100 gk92C8BkUf?QDXdl9APa?0
+Ig?m[V=GfamIfK?ZoMfT[^1
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX2.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@n@b@u@f@f@x2
+vNBUFFX32
+R266
+!i10b 1
+!s100 ^?^2SAZh:8E6<7@b7n87j2
+I3j4P<B8@h;NgVSDUk0KCH2
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX32.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX32.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX32.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX32.v|
+!s101 -O0
+!i113 1
+R7
+n@n@b@u@f@f@x32
+vNBUFFX4
+R266
+!i10b 1
+!s100 74hz25l8A8^cAQ_0?CZ[N1
+I^2<RGMD1j^@k<_fBdFhJn2
+R2
+R0
+R280
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX4.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX4.v|
+!s101 -O0
+!i113 1
+R7
+n@n@b@u@f@f@x4
+vNBUFFX8
+R266
+!i10b 1
+!s100 dCiBn`AnB3fK1^_Y^>2272
+IPjIaLG6VRQE;CM^K>P6bl0
+R2
+R0
+Z281 w1475708455
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX8.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX8.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NBUFFX8.v|
+!s101 -O0
+!i113 1
+R7
+n@n@b@u@f@f@x8
+vNOR2X0
+R266
+!i10b 1
+!s100 _HMBZAVfA=4_KN@mmV`Z33
+IOc^fW=jEVJ^g6E?zFQ@RS1
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X0.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r2@x0
+vNOR2X1
+R266
+!i10b 1
+!s100 >_;2<R=mCYm^XT7H9iE_41
+I0GjdBAi]JXnEY?VaSEfFc0
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X1.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r2@x1
+vNOR2X2
+R266
+!i10b 1
+!s100 2EMWXJA@7R>Z]mM125RVE1
+IO9S=TXUiVFzcQ98fBAnKR3
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r2@x2
+vNOR2X4
+R266
+!i10b 1
+!s100 zoRQ>]:Z:9fN<Cj36^GdP2
+I3D8kZ05o:OhP]aR5K8oaF1
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X4.v
+R4
+R5
+r1
+!s85 0
+31
+R269
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR2X4.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r2@x4
+vNOR3X0
+Z282 !s110 1481174372
+!i10b 1
+!s100 o5HJT^XHoTa2X[5O`F:h33
+I?ALNY8I?Adm[VN2i4Lb:L2
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X0.v
+R4
+R5
+r1
+!s85 0
+31
+Z283 !s108 1481174372.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r3@x0
+vNOR3X1
+R282
+!i10b 1
+!s100 1obVHomj457eRT<oJb1;@3
+IJ4Zmk51WAKWz7A>919ZLB3
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r3@x1
+vNOR3X2
+R282
+!i10b 1
+!s100 U4Sn1QV<<fQM25]k@>>n91
+Icz?QGzJOWed`:MImL]`o;2
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r3@x2
+vNOR3X4
+R282
+!i10b 1
+!s100 c67FWg8ibJ8dMnz7f9TAg2
+Ihk@E[dccXgIbzVa0o9O]F3
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X4.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR3X4.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r3@x4
+vNOR4X0
+R282
+!i10b 1
+!s100 njm3I_Ha[_FW@7WMce92Q1
+I_:NHHC2^Hz7WiR=[7NXzJ3
+R2
+R0
+R281
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X0.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X0.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X0.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X0.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r4@x0
+vNOR4X1
+R282
+!i10b 1
+!s100 ?_=69ob?80JXELX2iWlLa0
+I3hakI=H8zUa77EgBd2kEl3
+R2
+R0
+Z284 w1475708456
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/NOR4X1.v|
+!s101 -O0
+!i113 1
+R7
+n@n@o@r4@x1
+vOA21X1
+R282
+!i10b 1
+!s100 H_LA8^ZH9QjT7]JlMNeM`3
+IcRQhZ^85Z:5m:CR]b8OgB0
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a21@x1
+vOA21X2
+R282
+!i10b 1
+!s100 7GeJQE6dJ70_Mh>kXTlTG3
+IfY_DE0N9zDNhHgS8?hX;o3
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA21X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a21@x2
+vOA221X1
+R282
+!i10b 1
+!s100 m;bPz`H19SOJVMFU1_8>b2
+IJ4^2GoFG7I=BeK=W4RUK;0
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a221@x1
+vOA221X2
+R282
+!i10b 1
+!s100 2IFl^88AdWBcLY@m[@4C[0
+Ia0iiH[GIaSkFHd6@=Qj]^3
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA221X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a221@x2
+vOA222X1
+R282
+!i10b 1
+!s100 1Gi8ZEX=AK__OzH<>PkX22
+IQJg;S1<Ha_7;I6ZE91MFo1
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a222@x1
+vOA222X2
+R282
+!i10b 1
+!s100 Mc:MWH]bIRD=6?lPeF>oY3
+I21IH0;mjMA[F]3L3ka]113
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA222X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a222@x2
+vOA22X1
+R282
+!i10b 1
+!s100 :A^j7bTlFL?G_C^I0PV0e0
+Ih8NlWRP5jhEbCFhd@<=172
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a22@x1
+vOA22X2
+R282
+!i10b 1
+!s100 f5<RkU9zV_Afho0ALklP^3
+IgGi[3[=V6KPV7]jlB47l22
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OA22X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a22@x2
+vOAI21X1
+R282
+!i10b 1
+!s100 `CO8gDa9WRO`I]18__9gC0
+I3d5RE=P4THkcPcgObT>4M1
+R2
+R0
+R284
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i21@x1
+vOAI21X2
+R282
+!i10b 1
+!s100 eVH^Oec^Zl4_gWE>?TCLc1
+IJgG7;9V;K`d^BR5g7Og<i0
+R2
+R0
+Z285 w1475708457
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI21X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i21@x2
+vOAI221X1
+R282
+!i10b 1
+!s100 Cn?8HSN6QAaUO?dlQ]P893
+IzoiYBzoY>5Z0=<CNH?OUi1
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i221@x1
+vOAI221X2
+R282
+!i10b 1
+!s100 CSB=1[:JED<NePGKK5;;a0
+I?]Z2MocGFJMgZaT24g35L0
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI221X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i221@x2
+vOAI222X1
+R282
+!i10b 1
+!s100 0i277dM0KF<AYSMAQf?G12
+IR>RSO6Mb^eTK]ED9R9bmP2
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i222@x1
+vOAI222X2
+R282
+!i10b 1
+!s100 ;J>NI8?T=Hk1nO5_0=X`83
+IWzemGWSROmj0Ik@lhGI840
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI222X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i222@x2
+vOAI22X1
+R282
+!i10b 1
+!s100 [cdJ1zhFXRJOOfTj7Wb]f2
+IXYXZ1dUL8h9h_0<`lMCon1
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X1.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i22@x1
+vOAI22X2
+R282
+!i10b 1
+!s100 IZKATQ=;l8EXoa=NC>OQD0
+I<hPLj;;12OMF4]J`k14Db2
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X2.v
+R4
+R5
+r1
+!s85 0
+31
+R283
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OAI22X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@a@i22@x2
+vOR2X1
+Z286 !s110 1481174373
+!i10b 1
+!s100 fPB=EUEbZbi;KAJ6;2@`D3
+IZU[M6ncc0^C]g[:g[YDES2
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X1.v
+R4
+R5
+r1
+!s85 0
+31
+Z287 !s108 1481174373.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r2@x1
+vOR2X2
+R286
+!i10b 1
+!s100 O@ZXH1LTn2e^J9Ce7F0T81
+IjkTA2lekj8`6m]SCch`=g0
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r2@x2
+vOR2X4
+R286
+!i10b 1
+!s100 1ab8RhLF6:nHCBjj[Az7l0
+Imia[PV[UOY=W6DCFO:L2Z1
+R2
+R0
+R285
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X4.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR2X4.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r2@x4
+vOR3X1
+R286
+!i10b 1
+!s100 W4l5e:abdd5d8aMKjeRaO1
+I^7lG7XiAKP2<PZ7PM2=B]2
+R2
+R0
+Z288 w1475708458
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r3@x1
+vOR3X2
+R286
+!i10b 1
+!s100 la@OLO6O?:UQAdAe?dIVd2
+IoiU6KLjkGCz0Z@6JJj<M]2
+R2
+R0
+R288
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r3@x2
+vOR3X4
+R286
+!i10b 1
+!s100 1GPA:G40^UUUcmWl``^>42
+I?`K`4PeJRF<`7>99fBIQh2
+R2
+R0
+R288
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X4.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR3X4.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r3@x4
+vOR4X1
+R286
+!i10b 1
+!s100 @VDUWA3gc`M]HlLVQlOM`3
+IeaQ<SQ0Nd1<dO=gm4Y]k:1
+R2
+R0
+R288
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X1.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X1.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r4@x1
+vOR4X2
+R286
+!i10b 1
+!s100 EGL<T4<[EnOhFXbOLmG@F2
+Ielh;JDgQNoO_o8[d@lO[@0
+R2
+R0
+R288
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X2.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X2.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r4@x2
+vOR4X4
+R286
+!i10b 1
+!s100 zDcV]ZmMUnE0KoEd=]79^2
+IZz1@6LK5_U2F[mdk`Mo`Z3
+R2
+R0
+R288
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X4.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X4.v|
+!s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/OR4X4.v|
+!s101 -O0
+!i113 1
+R7
+n@o@r4@x4
+vprogramCounter
+R189
+!i10b 1
+!s100 <Fa?Y;MOoC5@;MXNY[j8K0
+IB_^RXdUD;Zc9[<Mza:IfF3
+R2
+R0
+R190
+Z289 8//Mac/Home/Dropbox/Windows/System Synth/syn/synPC.v
+Z290 F//Mac/Home/Dropbox/Windows/System Synth/syn/synPC.v
+R4
+R5
+r1
+!s85 0
+31
+R193
+Z291 !s107 //Mac/Home/Dropbox/Windows/System Synth/syn/synPC.v|
+Z292 !s90 -reportprogress|30|-work|work_synthesis|//Mac/Home/Dropbox/Windows/System Synth/syn/synPC.v|
+!s101 -O0
+!i113 1
+R7
+nprogram@counter
+vprogramCounter_DW01_inc_0
+R189
+!i10b 1
+!s100 B3B;G8edM:?mWdPAHAJNb0
+I>UJHNlVEG1Z3flOa[VaYj1
+R2
+R0
+R190
+R289
+R290
+L0 2
+R5
+r1
+!s85 0
+31
+R193
+R291
+R292
+!s101 -O0
+!i113 1
+R7
+nprogram@counter_@d@w01_inc_0
+vRDFFNX1
+R286
+!i10b 1
+!s100 F4zNXDhzmzPRESQFQdlL<1
+IQBL@gaIm@BgAZn;SfoFTz1
+R2
+R0
+R288
+Z293 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX1.v
+Z294 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z295 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX1.v|
+Z296 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX1.v|
+!s101 -O0
+!i113 1
+R7
+n@r@d@f@f@n@x1
+vRDFFNX2
+R286
+!i10b 1
+!s100 MjZ=M9F]4cicIY5H8TbIf0
+Iz2EaBi=XQ<GjAgQWB=lbi1
+R2
+R0
+R288
+Z297 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX2.v
+Z298 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z299 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX2.v|
+Z300 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFNX2.v|
+!s101 -O0
+!i113 1
+R7
+n@r@d@f@f@n@x2
+vRDFFX1
+R286
+!i10b 1
+!s100 [n2]98SjWz7bjD@af6oQS1
+Ic^7ZQ6M?cY5lA4DOU=d9[2
+R2
+R0
+R288
+Z301 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX1.v
+Z302 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z303 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX1.v|
+Z304 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX1.v|
+!s101 -O0
+!i113 1
+R7
+n@r@d@f@f@x1
+vRDFFX2
+R286
+!i10b 1
+!s100 nRnVcN1z]]ZUo1iE93^YQ3
+IBeDVkUUW2Efd8]UV;BZ8B3
+R2
+R0
+R288
+Z305 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX2.v
+Z306 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z307 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX2.v|
+Z308 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RDFFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@r@d@f@f@x2
+vRegister_FSM
+!s110 1481185666
+!i10b 1
+!s100 5zzGez3[gRh_4GKF;P@iC2
+I[D9TIQcgVGJ;UmK499BOf1
+R2
+R0
+R199
+8X:/Windows/System Synth/syn/synRtype.v
+FX:/Windows/System Synth/syn/synRtype.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1481185666.000000
+!s107 X:/Windows/System Synth/syn/synRtype.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synRtype.v|
+!s101 -O0
+!i113 1
+R7
+n@register_@f@s@m
+vrsdffnx1
+R286
+!i10b 1
+!s100 SDNhnVPdP=80_oMM5mb[V0
+If0;GAgAAWL;@Z_l5L6lMW2
+R2
+R0
+Z309 w1475708459
+Z310 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX1.v
+Z311 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z312 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX1.v|
+Z313 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX1.v|
+!s101 -O0
+!i113 1
+R7
+vrsdffnx2
+R286
+!i10b 1
+!s100 eN0kAC@[4?S@M17NKKTgC2
+I5lgH^ZfBXdVIY0f3Xgj0c2
+R2
+R0
+R309
+Z314 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX2.v
+Z315 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z316 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX2.v|
+Z317 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFNX2.v|
+!s101 -O0
+!i113 1
+R7
+vRSDFFX1
+R286
+!i10b 1
+!s100 [Zm6@DfJDK5e:aJPj9k][3
+IndZhF3ImY;I@Yh;k`aHc@2
+R2
+R0
+R309
+Z318 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX1.v
+Z319 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX1.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z320 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX1.v|
+Z321 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX1.v|
+!s101 -O0
+!i113 1
+R7
+n@r@s@d@f@f@x1
+vRSDFFX2
+R286
+!i10b 1
+!s100 dWQSFbAZVkh<l2^kMZff;3
+IIfS:[E@fejKfKdzOb^dUT0
+R2
+R0
+R309
+Z322 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX2.v
+Z323 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX2.v
+R4
+R5
+r1
+!s85 0
+31
+R287
+Z324 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX2.v|
+Z325 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/RSDFFX2.v|
+!s101 -O0
+!i113 1
+R7
+n@r@s@d@f@f@x2
+Us_aodffarx1_Q
+R9
+!i10b 1
+!s100 eTS8LzoB[Jlgjh@KbW8LF3
+Ic6?O^D66i_Bg9eBc_9ooa0
+R2
+R0
+R10
+R12
+R13
+Z326 L0 96
+R5
+r1
+!s85 0
+31
+R11
+R14
+R15
+!s101 -O0
+!i113 1
+R7
+ns_aodffarx1_@q
+Us_aodffarx2_Q
+R9
+!i10b 1
+!s100 ;GRUlHK6_Y_hR[IX7Nh^=2
+ImPCSD6>nW:7A9PnkRfa1R0
+R2
+R0
+R10
+R16
+R17
+R326
+R5
+r1
+!s85 0
+31
+R11
+R18
+R19
+!s101 -O0
+!i113 1
+R7
+ns_aodffarx2_@q
+Us_aodffnarx1_Q
+R9
+!i10b 1
+!s100 g:n09d^A^J2bQi<Yhg?h@0
+IlLTN=@kzX>hfQ6?O7KRY>0
+R2
+R0
+R10
+R20
+R21
+R326
+R5
+r1
+!s85 0
+31
+R11
+R22
+R23
+!s101 -O0
+!i113 1
+R7
+ns_aodffnarx1_@q
+Us_aodffnarx2_Q
+R9
+!i10b 1
+!s100 3nDH`H5O47mK5=DglLWhD1
+Id82mDOm;161kW^3BfSXg82
+R2
+R0
+R10
+R24
+R25
+R326
+R5
+r1
+!s85 0
+31
+R11
+R26
+R27
+!s101 -O0
+!i113 1
+R7
+ns_aodffnarx2_@q
+vs_cglnprx2
+R9
+!i10b 1
+!s100 kLbm>_lA`5a0]hbFLN]m?1
+I;XlS>COFJfaEA=QNDV[EL2
+R2
+R0
+R28
+R29
+R30
+Z327 L0 79
+R5
+r1
+!s85 0
+31
+R11
+R31
+R32
+!s101 -O0
+!i113 1
+R7
+vs_cglnprx8
+R9
+!i10b 1
+!s100 ]fVZGg@NMzKIU[]`CWk6?1
+I_=eah479d]<E>fkJZ9HEW2
+R2
+R0
+R28
+R33
+R34
+R327
+R5
+r1
+!s85 0
+31
+R11
+R35
+R36
+!s101 -O0
+!i113 1
+R7
+vs_cglnpsx16
+R37
+!i10b 1
+!s100 hD4K9YR7l[fLYa@cUSRf12
+IO6i56Y1R2]fh>;XQZQWc[2
+R2
+R0
+R28
+R38
+R39
+Z328 L0 81
+R5
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R7
+vs_cglnpsx2
+R9
+!i10b 1
+!s100 >i@MU97_c;MhkC8HZ`Xll2
+IMBHLzVF2XFGCCghY<nQ6F1
+R2
+R0
+R43
+R44
+R45
+R328
+R5
+r1
+!s85 0
+31
+R11
+R46
+R47
+!s101 -O0
+!i113 1
+R7
+vs_cglnpsx4
+R9
+!i10b 1
+!s100 LKS;4;>66>>:[WISKcO6`0
+IVVC0n1i5@VQz7^lj0eYzz1
+R2
+R0
+R43
+R48
+R49
+R328
+R5
+r1
+!s85 0
+31
+R11
+R50
+R51
+!s101 -O0
+!i113 1
+R7
+vs_cglnpsx8
+R37
+!i10b 1
+!s100 EaLX07C33li:5fY`_3jN40
+IeoGQahjDMM9Kl;V<LOhho3
+R2
+R0
+R43
+R52
+R53
+R328
+R5
+r1
+!s85 0
+31
+R11
+R54
+R55
+!s101 -O0
+!i113 1
+R7
+vs_cglpprx2
+R37
+!i10b 1
+!s100 IMJk1n=2U98EG3[dICG?C1
+IRB_Q[CSY3ScSifJc_njdH0
+R2
+R0
+R43
+R56
+R57
+R327
+R5
+r1
+!s85 0
+31
+R40
+R58
+R59
+!s101 -O0
+!i113 1
+R7
+vs_cglpprx8
+R37
+!i10b 1
+!s100 a`6KNg4KF?dW=HfcCARB72
+IRT@zK:HOYAnB_l7m=dO2c1
+R2
+R0
+R43
+R60
+R61
+R327
+R5
+r1
+!s85 0
+31
+R40
+R62
+R63
+!s101 -O0
+!i113 1
+R7
+vs_cglppsx16
+R37
+!i10b 1
+!s100 gBAR^bZA75RMKQNKJMgUf1
+IGF:h@Y^[coLbUc2Ie_U;U2
+R2
+R0
+R43
+R64
+R65
+R328
+R5
+r1
+!s85 0
+31
+R40
+R66
+R67
+!s101 -O0
+!i113 1
+R7
+vs_cglppsx2
+R37
+!i10b 1
+!s100 T3jY?n`L6=;OYbQ2a7@SC0
+I_e0G4DzZIPUmGLm0ZC?fK2
+R2
+R0
+R43
+R68
+R69
+R328
+R5
+r1
+!s85 0
+31
+R40
+R70
+R71
+!s101 -O0
+!i113 1
+R7
+vs_cglppsx4
+R37
+!i10b 1
+!s100 Lg6;b0mi]0o4;mkPf6A0Z3
+I10^ee@PhA9QC2ijl=lXZ@1
+R2
+R0
+R43
+R72
+R73
+R328
+R5
+r1
+!s85 0
+31
+R40
+R74
+R75
+!s101 -O0
+!i113 1
+R7
+vs_cglppsx8
+R37
+!i10b 1
+!s100 E4fe_9Ohjk5SRlm8YAJL40
+IZF=g_ECbX;FHUk7XVnm>g3
+R2
+R0
+R43
+R76
+R77
+R328
+R5
+r1
+!s85 0
+31
+R40
+R78
+R79
+!s101 -O0
+!i113 1
+R7
+Us_dec24x1_Q0
+R37
+!i10b 1
+!s100 ?[D<PLm9afR9_F19fPk;@0
+IkBU9P5AKnfn`9^Hl0G4]Z3
+R2
+R0
+R80
+R81
+R82
+Z329 L0 124
+R5
+r1
+!s85 0
+31
+R40
+R83
+R84
+!s101 -O0
+!i113 1
+R7
+ns_dec24x1_@q0
+Us_dec24x1_Q1
+R37
+!i10b 1
+!s100 h@E30nl3Pn=g5cPk^Xm2W0
+IIC=323G4<Z1HA9<_j5S<=2
+R2
+R0
+R80
+R81
+R82
+Z330 L0 109
+R5
+r1
+!s85 0
+31
+R40
+R83
+R84
+!s101 -O0
+!i113 1
+R7
+ns_dec24x1_@q1
+Us_dec24x1_Q2
+R37
+!i10b 1
+!s100 oH51g?F;CSMga[9o:eQbb2
+IS=6S@0Y`NWhOQi>A0`oV>2
+R2
+R0
+R80
+R81
+R82
+Z331 L0 94
+R5
+r1
+!s85 0
+31
+R40
+R83
+R84
+!s101 -O0
+!i113 1
+R7
+ns_dec24x1_@q2
+Us_dec24x1_Q3
+R37
+!i10b 1
+!s100 RZ84hzo[ic3]8`?lM;oY?2
+IPC`QJAmUDd`P4`enGIFXD1
+R2
+R0
+R80
+R81
+R82
+R327
+R5
+r1
+!s85 0
+31
+R40
+R83
+R84
+!s101 -O0
+!i113 1
+R7
+ns_dec24x1_@q3
+Us_dec24x2_Q0
+R37
+!i10b 1
+!s100 bLkK1@Xb:ACQG:ZD_kKHV0
+Ii1jlIYY?8bhK^_RH];Znj1
+R2
+R0
+R80
+R85
+R86
+R329
+R5
+r1
+!s85 0
+31
+R40
+R87
+R88
+!s101 -O0
+!i113 1
+R7
+ns_dec24x2_@q0
+Us_dec24x2_Q1
+R37
+!i10b 1
+!s100 L@i99O4595FGRZ^1X:=961
+IGo][S<1J9gTgF]Am_A7S`0
+R2
+R0
+R80
+R85
+R86
+R330
+R5
+r1
+!s85 0
+31
+R40
+R87
+R88
+!s101 -O0
+!i113 1
+R7
+ns_dec24x2_@q1
+Us_dec24x2_Q2
+R37
+!i10b 1
+!s100 =TF[iE]X9zOEO[Oc8fC3n3
+IgM?lV0Ild]]YGeZ40eN2l0
+R2
+R0
+R80
+R85
+R86
+R331
+R5
+r1
+!s85 0
+31
+R40
+R87
+R88
+!s101 -O0
+!i113 1
+R7
+ns_dec24x2_@q2
+Us_dec24x2_Q3
+R37
+!i10b 1
+!s100 Q1A?0IA47F5@=H`^5jdZ`3
+IGLNZ_L[?:Vd@1?<8;dZbS3
+R2
+R0
+R80
+R85
+R86
+R327
+R5
+r1
+!s85 0
+31
+R40
+R87
+R88
+!s101 -O0
+!i113 1
+R7
+ns_dec24x2_@q3
+Us_dffarx1_Q
+R37
+!i10b 1
+!s100 Qbl]dMhXko1=U;z>B7Q>c3
+IkUS3]aAjYJ7H6T]g6TYdf2
+R2
+R0
+R80
+R89
+R90
+R326
+R5
+r1
+!s85 0
+31
+R40
+R91
+R92
+!s101 -O0
+!i113 1
+R7
+ns_dffarx1_@q
+Us_dffarx2_Q
+R37
+!i10b 1
+!s100 @@2dIGcN;O`k5;OASj2TO2
+IVYOLMhE21KJ@@:=e9[h7e3
+R2
+R0
+R80
+R93
+R94
+R326
+R5
+r1
+!s85 0
+31
+R40
+R95
+R96
+!s101 -O0
+!i113 1
+R7
+ns_dffarx2_@q
+Us_dffasrx1_Q
+R37
+!i10b 1
+!s100 JQAIJRTcSGfziAg3T8dA?2
+I<=S4k@X^]Q?2V_]Y;Zn@70
+R2
+R0
+R80
+R97
+R98
+Z332 L0 163
+R5
+r1
+!s85 0
+31
+R40
+R99
+R100
+!s101 -O0
+!i113 1
+R7
+ns_dffasrx1_@q
+Us_dffasrx1_QN
+R37
+!i10b 1
+!s100 M89;H:e_gSo_Kf>?fN87@2
+Im]m6iV5`kZMRSkg0P]j7h2
+R2
+R0
+R80
+R97
+R98
+Z333 L0 141
+R5
+r1
+!s85 0
+31
+R40
+R99
+R100
+!s101 -O0
+!i113 1
+R7
+ns_dffasrx1_@q@n
+Us_dffasrx2_Q
+R37
+!i10b 1
+!s100 ;ARBSnm^Tg^hlk0f[i[nN1
+IV1;oZFhzee1z`9LTa[Wz`1
+R2
+R0
+R80
+R101
+R102
+R332
+R5
+r1
+!s85 0
+31
+R40
+R103
+R104
+!s101 -O0
+!i113 1
+R7
+ns_dffasrx2_@q
+Us_dffasrx2_QN
+R37
+!i10b 1
+!s100 [4?F81UnS3ljTnlC7O4SR0
+I>_51;kUJTm51`WR[EekSS3
+R2
+R0
+R80
+R101
+R102
+R333
+R5
+r1
+!s85 0
+31
+R40
+R103
+R104
+!s101 -O0
+!i113 1
+R7
+ns_dffasrx2_@q@n
+Us_dffasx1_Q
+R37
+!i10b 1
+!s100 DK2Lg5HFH^VEeiJcG6S]l1
+IaYOan1^fig3h;B]TMNR1F0
+R2
+R0
+R105
+R106
+R107
+R326
+R5
+r1
+!s85 0
+31
+R40
+R108
+R109
+!s101 -O0
+!i113 1
+R7
+ns_dffasx1_@q
+Us_dffasx2_Q
+R37
+!i10b 1
+!s100 Xi:<`S^VRM9hbi=8k1=KA3
+Ikm2^Q;R7dg=Q[X;inmMjc3
+R2
+R0
+R105
+R110
+R111
+R326
+R5
+r1
+!s85 0
+31
+R40
+R112
+R113
+!s101 -O0
+!i113 1
+R7
+ns_dffasx2_@q
+Us_dffnarx1_Q
+R37
+!i10b 1
+!s100 UR81VHmGabJ6eO^[gLTGT0
+IZSVj1S?>NEbMemEC@h27`0
+R2
+R0
+R105
+R114
+R115
+R326
+R5
+r1
+!s85 0
+31
+R40
+R116
+R117
+!s101 -O0
+!i113 1
+R7
+ns_dffnarx1_@q
+Us_dffnarx2_Q
+R37
+!i10b 1
+!s100 G=6=jYzUOgF>JJWhPo9P:3
+IQaFBU4EN83X>oDNEMmNZ>0
+R2
+R0
+R105
+R118
+R119
+R326
+R5
+r1
+!s85 0
+31
+R40
+R120
+R121
+!s101 -O0
+!i113 1
+R7
+ns_dffnarx2_@q
+Us_dffnasrnx1
+R37
+!i10b 1
+!s100 0c2LKY@hi3c:DOjTmOF8h3
+IQkWWlGZLf2R7W44:43jO?0
+R2
+R0
+R105
+R122
+R123
+Z334 L0 107
+R5
+r1
+!s85 0
+31
+R40
+R124
+R125
+!s101 -O0
+!i113 1
+R7
+Us_dffnasrnx2
+R126
+!i10b 1
+!s100 _?aIP1iVKGBF74I;n<<8F0
+IE4hfz2hH<UG3FYW51k:Ze1
+R2
+R0
+R105
+R127
+R128
+R334
+R5
+r1
+!s85 0
+31
+R40
+R129
+R130
+!s101 -O0
+!i113 1
+R7
+Us_dffnasrqx1
+R126
+!i10b 1
+!s100 EPaflcL]_T6]I[>Pf4MYT2
+IS8FQH6mL]lJSakI>8BHmF3
+R2
+R0
+R105
+R131
+R132
+Z335 L0 106
+R5
+r1
+!s85 0
+31
+R133
+R134
+R135
+!s101 -O0
+!i113 1
+R7
+Us_dffnasrqx2
+R126
+!i10b 1
+!s100 hKWHYf3MY1Ti]<oH2I6>a1
+I3`OLXEB41FObe:d51mdT?3
+R2
+R0
+R105
+R136
+R137
+R335
+R5
+r1
+!s85 0
+31
+R133
+R138
+R139
+!s101 -O0
+!i113 1
+R7
+Us_dffnasrx1_Q
+R126
+!i10b 1
+!s100 h_6Wge^:3gQK=JBER0iOB1
+IJ1YlS^Z9AI]N_FfS;T:1Y3
+R2
+R0
+R105
+R140
+R141
+L0 162
+R5
+r1
+!s85 0
+31
+R133
+R142
+R143
+!s101 -O0
+!i113 1
+R7
+ns_dffnasrx1_@q
+Us_dffnasrx1_QN
+R126
+!i10b 1
+!s100 =PV>SPHXFz3ImM3QSKe]21
+IPaUaioK^UUHLZ1zj:4kQN3
+R2
+R0
+R105
+R140
+R141
+L0 140
+R5
+r1
+!s85 0
+31
+R133
+R142
+R143
+!s101 -O0
+!i113 1
+R7
+ns_dffnasrx1_@q@n
+Us_dffnasrx2_Q
+R126
+!i10b 1
+!s100 MfMKRf:9mOflR33oYAm2k3
+ICd?1z3aESjlYM=VXLBS?o3
+R2
+R0
+R105
+R144
+R145
+R332
+R5
+r1
+!s85 0
+31
+R133
+R146
+R147
+!s101 -O0
+!i113 1
+R7
+ns_dffnasrx2_@q
+Us_dffnasrx2_QN
+R126
+!i10b 1
+!s100 ]LcF^;DfLdLke=?:e4mL?1
+INP7k?UM`jgO7d?h[F>KoC1
+R2
+R0
+R105
+R144
+R145
+R333
+R5
+r1
+!s85 0
+31
+R133
+R146
+R147
+!s101 -O0
+!i113 1
+R7
+ns_dffnasrx2_@q@n
+Us_dffnasx1_Q
+R126
+!i10b 1
+!s100 cjXAoz>[ehHCclEnR21z@2
+IQNei@1PCl>kn0j`a0DP083
+R2
+R0
+R148
+R149
+R150
+R326
+R5
+r1
+!s85 0
+31
+R133
+R151
+R152
+!s101 -O0
+!i113 1
+R7
+ns_dffnasx1_@q
+Us_dffnasx2_Q
+R126
+!i10b 1
+!s100 ]Gd^iYhHYG_C]WXHfE=T]0
+Iji_C;7b1WF`C1omFRWo<n1
+R2
+R0
+R148
+R153
+R154
+R326
+R5
+r1
+!s85 0
+31
+R133
+R155
+R156
+!s101 -O0
+!i113 1
+R7
+ns_dffnasx2_@q
+Us_dffnx1_Q
+R126
+!i10b 1
+!s100 K`gDo[L_]b2=]e]UbSLno1
+IhV?8AVi[EY4@aQmbg?hMO1
+R2
+R0
+R148
+R157
+R158
+Z336 L0 73
+R5
+r1
+!s85 0
+31
+R133
+R159
+R160
+!s101 -O0
+!i113 1
+R7
+ns_dffnx1_@q
+Us_dffnx2_Q
+R126
+!i10b 1
+!s100 m_0]FmXi232T=Mac9bGBj2
+IHiIdD?>gz?9e=Fc;AEWMT2
+R2
+R0
+R148
+R161
+R162
+R336
+R5
+r1
+!s85 0
+31
+R133
+R163
+R164
+!s101 -O0
+!i113 1
+R7
+ns_dffnx2_@q
+Us_dffssrx1_Q
+R126
+!i10b 1
+!s100 l^L1hO60Rh2PLgCPf7F403
+Id<kQD4]]0EcV<Hc35099<2
+R2
+R0
+R148
+R165
+R166
+R326
+R5
+r1
+!s85 0
+31
+R133
+R167
+R168
+!s101 -O0
+!i113 1
+R7
+ns_dffssrx1_@q
+Us_dffssrx2_Q
+R126
+!i10b 1
+!s100 R9f^683hGd]ck@gAzKR@23
+IzkVD@Q;O=QHGQ>BP;SHLf1
+R2
+R0
+R148
+R169
+R170
+R326
+R5
+r1
+!s85 0
+31
+R133
+R171
+R172
+!s101 -O0
+!i113 1
+R7
+ns_dffssrx2_@q
+Us_dffx1_Q
+R126
+!i10b 1
+!s100 XmLEdAPlL1KTjh^Iz3M[j1
+IZ9ji:E@Y<f72XI4llc:4D2
+R2
+R0
+R148
+R173
+R174
+R336
+R5
+r1
+!s85 0
+31
+R133
+R175
+R176
+!s101 -O0
+!i113 1
+R7
+ns_dffx1_@q
+Us_dffx2_Q
+R126
+!i10b 1
+!s100 GEMzU5e[k1fK@^d2J_X7=0
+IzklfF2IB:iIPmYV5@?zY>2
+R2
+R0
+R148
+R177
+R178
+R336
+R5
+r1
+!s85 0
+31
+R133
+R179
+R180
+!s101 -O0
+!i113 1
+R7
+ns_dffx2_@q
+Us_faddx1_CO
+R126
+!i10b 1
+!s100 365i3JMGB<jZ2YcPX8K<J2
+IhKb=eNoP`o4kVlH=FjFe21
+R2
+R0
+R148
+R181
+R182
+L0 120
+R5
+r1
+!s85 0
+31
+R133
+R183
+R184
+!s101 -O0
+!i113 1
+R7
+ns_faddx1_@c@o
+Us_faddx1_S
+R126
+!i10b 1
+!s100 U<X9hkY8J^@YYVI4inZPW1
+I3=E^0TeaibQk2TbCWbU^i2
+R2
+R0
+R148
+R181
+R182
+L0 101
+R5
+r1
+!s85 0
+31
+R133
+R183
+R184
+!s101 -O0
+!i113 1
+R7
+ns_faddx1_@s
+Us_faddx2_CO
+R126
+!i10b 1
+!s100 AgQbKhQcE0;W>jbTWCcMZ2
+IRhanJWoUfJkB2O>14gQmj1
+R2
+R0
+R148
+R185
+R186
+L0 121
+R5
+r1
+!s85 0
+31
+R133
+R187
+R188
+!s101 -O0
+!i113 1
+R7
+ns_faddx2_@c@o
+Us_faddx2_S
+R126
+!i10b 1
+!s100 j>5c3:hfV_E7Rz8F95W<f1
+I=Ozz:QF=V@?NGa=fl8TW>1
+R2
+R0
+R148
+R185
+R186
+L0 102
+R5
+r1
+!s85 0
+31
+R133
+R187
+R188
+!s101 -O0
+!i113 1
+R7
+ns_faddx2_@s
+vs_larx1
+R200
+!i10b 1
+!s100 bdPUj8lz?h4QLEnia7Edz3
+IBG2Y6XLTPL_eW;?R=S8iN1
+R2
+R0
+R203
+R204
+R205
+Z337 L0 99
+R5
+r1
+!s85 0
+31
+R201
+R206
+R207
+!s101 -O0
+!i113 1
+R7
+vs_larx2
+R200
+!i10b 1
+!s100 e@FEcGA;:l39_LXZEnVRN3
+IU6AjNQCXAi=;9oT6gElKI3
+R2
+R0
+R203
+R208
+R209
+R337
+R5
+r1
+!s85 0
+31
+R201
+R210
+R211
+!s101 -O0
+!i113 1
+R7
+vs_lasrnx1
+R200
+!i10b 1
+!s100 om4lGUZXhEb;nlWY]nhkL0
+I0DjcNRZV8C17l4KCM^bFK2
+R2
+R0
+R203
+R212
+R213
+Z338 L0 113
+R5
+r1
+!s85 0
+31
+R201
+R214
+R215
+!s101 -O0
+!i113 1
+R7
+vs_lasrnx2
+R200
+!i10b 1
+!s100 2JQdPWZCA[V2C7V4OQYam0
+IfJV^][UX]i6^=GaZY@_hI3
+R2
+R0
+R203
+R216
+R217
+R338
+R5
+r1
+!s85 0
+31
+R201
+R218
+R219
+!s101 -O0
+!i113 1
+R7
+vs_lasrqx1
+R200
+!i10b 1
+!s100 VgR@5BF7MaH>^NhmVT1U_1
+IkVgz?I?B4]LB>A`Olg2CK2
+R2
+R0
+R203
+R220
+R221
+Z339 L0 112
+R5
+r1
+!s85 0
+31
+R201
+R222
+R223
+!s101 -O0
+!i113 1
+R7
+vs_lasrqx2
+R200
+!i10b 1
+!s100 ol3o28lcmIKBI@d6=8`0=0
+IN[0_2OY@M7ZCLVPB1?c?@1
+R2
+R0
+R203
+R224
+R225
+R339
+R5
+r1
+!s85 0
+31
+R201
+R226
+R227
+!s101 -O0
+!i113 1
+R7
+vs_lasrx1
+R200
+!i10b 1
+!s100 iN]LzGD97kgVN?V5;kcE41
+I70fBzb3LNk<hQH8aCSDUn0
+R2
+R0
+R203
+R228
+R229
+Z340 L0 143
+R5
+r1
+!s85 0
+31
+R201
+R230
+R231
+!s101 -O0
+!i113 1
+R7
+vs_lasrx2
+R200
+!i10b 1
+!s100 Tib2oU6N6Q2TN>YQl1g^F2
+I`OFNUk>9kKjPjmXL6;5n73
+R2
+R0
+R203
+R232
+R233
+R340
+R5
+r1
+!s85 0
+31
+R201
+R234
+R235
+!s101 -O0
+!i113 1
+R7
+vs_lasx1
+R236
+!i10b 1
+!s100 0M1QmHEaJ_aJS=d?3bcAK3
+IChBhK7Z^WWak0>Fioe23b1
+R2
+R0
+R237
+R238
+R239
+R337
+R5
+r1
+!s85 0
+31
+R201
+R240
+R241
+!s101 -O0
+!i113 1
+R7
+vs_lasx2
+R236
+!i10b 1
+!s100 a^F1fLW9L@B2aP1V:H<dK0
+IkV2[VoNK>SflMS3bU`f;F1
+R2
+R0
+R237
+R242
+R243
+R337
+R5
+r1
+!s85 0
+31
+R244
+R245
+R246
+!s101 -O0
+!i113 1
+R7
+vs_latchx1
+R236
+!i10b 1
+!s100 M]^ORZc?g[]Y3Om0RXSBR2
+Icb^7gW3kEfJ3`GM`XLl>m2
+R2
+R0
+R237
+R247
+R248
+L0 77
+R5
+r1
+!s85 0
+31
+R244
+R249
+R250
+!s101 -O0
+!i113 1
+R7
+vs_latchx2
+R236
+!i10b 1
+!s100 ?@alYdSE37kL7Re;W^TE:1
+I^PfL<7ZP`c9?zLe9A`K9]3
+R2
+R0
+R237
+R251
+R252
+L0 78
+R5
+r1
+!s85 0
+31
+R244
+R253
+R254
+!s101 -O0
+!i113 1
+R7
+Us_mux21x1
+R236
+!i10b 1
+!s100 ZF10_S88FbN[b94;fl[nl3
+I143Iceo@eY4^nKL>73`KR2
+R2
+R0
+R259
+R262
+R263
+Z341 L0 70
+R5
+r1
+!s85 0
+31
+R244
+R264
+R265
+!s101 -O0
+!i113 1
+R7
+Us_mux21x2
+R266
+!i10b 1
+!s100 Yo0jFRBN_CDac^iSo^Q?l0
+I>55EUNg5<m7l059<QiRk^2
+R2
+R0
+R259
+R267
+R268
+R341
+R5
+r1
+!s85 0
+31
+R269
+R270
+R271
+!s101 -O0
+!i113 1
+R7
+Us_mux41x1
+R266
+!i10b 1
+!s100 VBgn[6?H>X4`HWJl:VhO^0
+I@6A3AJ=oE7534MlR[:MMU0
+R2
+R0
+R259
+R272
+R273
+Z342 L0 216
+R5
+r1
+!s85 0
+31
+R269
+R274
+R275
+!s101 -O0
+!i113 1
+R7
+Us_mux41x2
+R266
+!i10b 1
+!s100 nEDSScUF3O0RAb:e^M6Y[2
+IF_=Ma0oDD2gEEYg<=n=X@0
+R2
+R0
+R259
+R276
+R277
+R342
+R5
+r1
+!s85 0
+31
+R269
+R278
+R279
+!s101 -O0
+!i113 1
+R7
+Us_rdffnx1_Q
+R286
+!i10b 1
+!s100 ZTF0fB0_4@:Z>0zhPP@no0
+I_PKPH;8Ke_bi;l]g0YFWo2
+R2
+R0
+R288
+R293
+R294
+Z343 L0 82
+R5
+r1
+!s85 0
+31
+R287
+R295
+R296
+!s101 -O0
+!i113 1
+R7
+ns_rdffnx1_@q
+Us_rdffnx2_Q
+R286
+!i10b 1
+!s100 FG_76J>KShjd@A=IHZii=3
+IVI<gMHGT`TOH14g8S1k?c2
+R2
+R0
+R288
+R297
+R298
+R343
+R5
+r1
+!s85 0
+31
+R287
+R299
+R300
+!s101 -O0
+!i113 1
+R7
+ns_rdffnx2_@q
+Us_rdffx1_Q
+R286
+!i10b 1
+!s100 BZYPMRf9c`C0O04U_D8a[1
+IQKdh4g2=7K3YGZHmUIAa`3
+R2
+R0
+R288
+R301
+R302
+Z344 L0 87
+R5
+r1
+!s85 0
+31
+R287
+R303
+R304
+!s101 -O0
+!i113 1
+R7
+ns_rdffx1_@q
+Us_RDFFX2_Q
+R286
+!i10b 1
+!s100 P[oVLhG5i?]R[Q?I5EEFj1
+I5C8YOV3e:WfPJSg6:D_GE0
+R2
+R0
+R288
+R305
+R306
+R344
+R5
+r1
+!s85 0
+31
+R287
+R307
+R308
+!s101 -O0
+!i113 1
+R7
+ns_@r@d@f@f@x2_@q
+Us_rsdffnx1_Q
+R286
+!i10b 1
+!s100 zRD4PCFQTF<lHJiEJ4g7T2
+IIQWhDYoDiE6iAR06TCWDS3
+R2
+R0
+R309
+R310
+R311
+Z345 L0 138
+R5
+r1
+!s85 0
+31
+R287
+R312
+R313
+!s101 -O0
+!i113 1
+R7
+ns_rsdffnx1_@q
+Us_rsdffnx2_Q
+R286
+!i10b 1
+!s100 nYZ9GnN`RR:G:Lj;f8W2j3
+IGKnn?@O3dU5gQY`c9bbRc1
+R2
+R0
+R309
+R314
+R315
+R345
+R5
+r1
+!s85 0
+31
+R287
+R316
+R317
+!s101 -O0
+!i113 1
+R7
+ns_rsdffnx2_@q
+Us_rsdffx1_Q
+R286
+!i10b 1
+!s100 KkcD]5=MZHWL`1JONEbGI0
+IHTkzVNhk69Vf9I]jCY@GY0
+R2
+R0
+R309
+R318
+R319
+Z346 L0 158
+R5
+r1
+!s85 0
+31
+R287
+R320
+R321
+!s101 -O0
+!i113 1
+R7
+ns_rsdffx1_@q
+Us_rsdffx2_Q
+R286
+!i10b 1
+!s100 FCUkfPB4MFGXUchVNbYE^0
+Ie_N`bk5Sc<6VzmmTRBLTb0
+R2
+R0
+R309
+R322
+R323
+R346
+R5
+r1
+!s85 0
+31
+R287
+R324
+R325
+!s101 -O0
+!i113 1
+R7
+ns_rsdffx2_@q
+Us_sdffarx1_Q
+R286
+!i10b 1
+!s100 E2XB5EM7ia7;BH25NGO4i1
+IRBz=<Nng8o>fgYXlWJLbV3
+R2
+R0
+R309
+Z347 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX1.v
+Z348 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX1.v
+Z349 L0 176
+R5
+r1
+!s85 0
+31
+R287
+Z350 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX1.v|
+Z351 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffarx1_@q
+Us_sdffarx2_Q
+R286
+!i10b 1
+!s100 eHJjD;Z=Y_S`2okm?k9KW1
+IImkK320<DX@4714VO7O9z2
+R2
+R0
+R309
+Z352 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX2.v
+Z353 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX2.v
+R349
+R5
+r1
+!s85 0
+31
+R287
+Z354 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX2.v|
+Z355 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFARX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffarx2_@q
+Us_sdffasrsx1_Q
+R286
+!i10b 1
+!s100 2KSU9E`aFj=R^R3ORY2PX2
+I6O`VN:6^WZjz];fGbcRAM1
+R2
+R0
+R309
+Z356 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX1.v
+Z357 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX1.v
+Z358 L0 521
+R5
+r1
+!s85 0
+31
+R287
+Z359 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX1.v|
+Z360 !s90 -reportprogress|300|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx1_@q
+Us_sdffasrsx1_QN
+R286
+!i10b 1
+!s100 JU`dG<dJ<5jRRFBB:jZXj2
+IZDTj^B9gQaPcVNLcDK5Zb3
+R2
+R0
+R309
+R356
+R357
+Z361 L0 495
+R5
+r1
+!s85 0
+31
+R287
+R359
+R360
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx1_@q@n
+Us_sdffasrsx1_S0
+R286
+!i10b 1
+!s100 :aV=aS]17zzZ2D3KQM>8;1
+I^j2N;TLk@TTA3F6YJ9]AQ3
+R2
+R0
+R309
+R356
+R357
+Z362 L0 469
+R5
+r1
+!s85 0
+31
+R287
+R359
+R360
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx1_@s0
+Us_sdffasrsx2_Q
+Z363 !s110 1481174374
+!i10b 1
+!s100 El>G[0>Angf7M?SF7Dk1L2
+IbB7zKRSHjB_CARSVGzcNG3
+R2
+R0
+R309
+Z364 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX2.v
+Z365 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX2.v
+R358
+R5
+r1
+!s85 0
+31
+R287
+Z366 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX2.v|
+Z367 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRSX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx2_@q
+Us_sdffasrsx2_QN
+R363
+!i10b 1
+!s100 ikDN6>K][bEA62?C=7^:F1
+I`CG1:Qn65O6?mLKj05f]j2
+R2
+R0
+R309
+R364
+R365
+R361
+R5
+r1
+!s85 0
+31
+R287
+R366
+R367
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx2_@q@n
+Us_sdffasrsx2_S0
+R363
+!i10b 1
+!s100 ]<@_cOz4oP=3UCE66T<D^0
+IS`U74b4Z<nF<DT3::kMfg0
+R2
+R0
+R309
+R364
+R365
+R362
+R5
+r1
+!s85 0
+31
+R287
+R366
+R367
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrsx2_@s0
+Us_sdffasrx1_Q
+R363
+!i10b 1
+!s100 YZRUAHY>;f]X48J]5`R<X3
+IXNOJ8oL0IWW9`g1JZ3mU81
+R2
+R0
+R309
+Z368 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX1.v
+Z369 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX1.v
+L0 365
+R5
+r1
+!s85 0
+31
+Z370 !s108 1481174374.000000
+Z371 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX1.v|
+Z372 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrx1_@q
+Us_sdffasrx1_QN
+R363
+!i10b 1
+!s100 YN<m;716SYOnMLA;:hbVc3
+IBNN:UiIUZ?zG_gUJcKSBK1
+R2
+R0
+R309
+R368
+R369
+Z373 L0 338
+R5
+r1
+!s85 0
+31
+R370
+R371
+R372
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrx1_@q@n
+Us_sdffasrx2_Q
+R363
+!i10b 1
+!s100 >96hLYZkm3^56>VV;^CW`0
+IE86TK;acYPaC^W];N1fk00
+R2
+R0
+R309
+Z374 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX2.v
+Z375 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX2.v
+Z376 L0 364
+R5
+r1
+!s85 0
+31
+R370
+Z377 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX2.v|
+Z378 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASRX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrx2_@q
+Us_sdffasrx2_QN
+R363
+!i10b 1
+!s100 48eUBE1Dg2fD]zL^C^U^M1
+IOh^IAfi47:h;R8]XUahH<1
+R2
+R0
+R309
+R374
+R375
+R373
+R5
+r1
+!s85 0
+31
+R370
+R377
+R378
+!s101 -O0
+!i113 1
+R7
+ns_sdffasrx2_@q@n
+Us_sdffasx1_Q
+R363
+!i10b 1
+!s100 >6gY8SO<khaWhA<1?N@hW3
+IEzUZa`JdCeeDGfloH^@AU2
+R2
+R0
+Z379 w1475708460
+Z380 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX1.v
+Z381 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX1.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z382 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX1.v|
+Z383 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasx1_@q
+Us_sdffasx2_Q
+R363
+!i10b 1
+!s100 USdco_jE7NWoNESGkL6ok3
+In5DZZi@=47ZlzhI76[m471
+R2
+R0
+R379
+Z384 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX2.v
+Z385 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX2.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z386 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX2.v|
+Z387 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFASX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffasx2_@q
+Us_sdffnarx1_Q
+R363
+!i10b 1
+!s100 g_0Xn4T_;LiF8?N?Q3WKl3
+IAF:?GIoKlWM@IZa>ngNZm3
+R2
+R0
+R379
+Z388 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX1.v
+Z389 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX1.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z390 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX1.v|
+Z391 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnarx1_@q
+Us_sdffnarx2_Q
+R363
+!i10b 1
+!s100 d99H@lHMEZ:]7=;9CjLoR0
+IVjokdNGIA^hW[1YAaR:821
+R2
+R0
+R379
+Z392 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX2.v
+Z393 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX2.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z394 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX2.v|
+Z395 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNARX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnarx2_@q
+Us_sdffnasrx1_Q
+R363
+!i10b 1
+!s100 TEMiN`82<0AIFn;aZSDD>1
+IOI82]zUF01zZj_=CWXnfU2
+R2
+R0
+R379
+Z396 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX1.v
+Z397 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX1.v
+R376
+R5
+r1
+!s85 0
+31
+R370
+Z398 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX1.v|
+Z399 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasrx1_@q
+Us_sdffnasrx1_QN
+R363
+!i10b 1
+!s100 emGNU`EPY]TJ]474aJ40@3
+IL`]SJ2jYJ^0_LXnA@?6?j0
+R2
+R0
+R379
+R396
+R397
+R373
+R5
+r1
+!s85 0
+31
+R370
+R398
+R399
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasrx1_@q@n
+Us_sdffnasrx2_Q
+R363
+!i10b 1
+!s100 X>4mX_?EZ8kCf??LNbU3M0
+Iem`g7<]RjL:h`NZUjUmJd3
+R2
+R0
+R379
+Z400 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX2.v
+Z401 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX2.v
+R376
+R5
+r1
+!s85 0
+31
+R370
+Z402 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX2.v|
+Z403 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASRX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasrx2_@q
+Us_sdffnasrx2_QN
+R363
+!i10b 1
+!s100 ldgmaQ`GmXU`=l7gUU><I2
+IM=TVoR5k:V^h;_GOh0Ecg0
+R2
+R0
+R379
+R400
+R401
+R373
+R5
+r1
+!s85 0
+31
+R370
+R402
+R403
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasrx2_@q@n
+Us_sdffnasx1_Q
+R363
+!i10b 1
+!s100 V]3f`Kln5DElA_IU@78m`2
+IaTlGTXz]<VzW70KJb;d5T3
+R2
+R0
+R379
+Z404 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX1.v
+Z405 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX1.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z406 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX1.v|
+Z407 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasx1_@q
+Us_sdffnasx2_Q
+R363
+!i10b 1
+!s100 fkzNnbgIR^6?TXl_BNg@j0
+IgAmdNen7SmkLPbHk>bEmD0
+R2
+R0
+R379
+Z408 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX2.v
+Z409 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX2.v
+R349
+R5
+r1
+!s85 0
+31
+R370
+Z410 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX2.v|
+Z411 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNASX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnasx2_@q
+Us_sdffnx1_Q
+R363
+!i10b 1
+!s100 mE>=ZG7[MfQOLJ7Wg9DcK2
+ILaE[=XDVYQ:C<VdC^DSI40
+R2
+R0
+R379
+Z412 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX1.v
+Z413 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX1.v
+Z414 L0 97
+R5
+r1
+!s85 0
+31
+R370
+Z415 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX1.v|
+Z416 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnx1_@q
+Us_sdffnx2_Q
+R363
+!i10b 1
+!s100 kl:aKlk@I641FGQX?mGF[3
+IQYG[4;92USlBD>of]J6`P3
+R2
+R0
+R379
+Z417 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX2.v
+Z418 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX2.v
+R414
+R5
+r1
+!s85 0
+31
+R370
+Z419 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX2.v|
+Z420 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFNX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffnx2_@q
+Us_sdffssrx1_Q
+R363
+!i10b 1
+!s100 PRA<KMcZN1=elz4nf9Ud70
+IiIoe5C^T<IQ^AMPMnIlSJ1
+R2
+R0
+Z421 w1475708461
+Z422 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX1.v
+Z423 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX1.v
+Z424 L0 185
+R5
+r1
+!s85 0
+31
+R370
+Z425 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX1.v|
+Z426 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffssrx1_@q
+Us_sdffssrx2_Q
+R363
+!i10b 1
+!s100 00_O[WO1g2B5bL4Xo;_z:2
+InM5RR?Y4SRlE6<gSb<W^N2
+R2
+R0
+R421
+Z427 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX2.v
+Z428 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX2.v
+R424
+R5
+r1
+!s85 0
+31
+R370
+Z429 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX2.v|
+Z430 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFSSRX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffssrx2_@q
+Us_sdffx1_Q
+R363
+!i10b 1
+!s100 ngCCRK_6O>W7zdCQaQ2gk3
+IVg>de2fU9NL]0`idX6[=b3
+R2
+R0
+R421
+Z431 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX1.v
+Z432 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX1.v
+R414
+R5
+r1
+!s85 0
+31
+R370
+Z433 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX1.v|
+Z434 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX1.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffx1_@q
+Us_sdffx2_Q
+R363
+!i10b 1
+!s100 g:i`:[9LmV[i6Tc0oU[1E0
+IAR6o@0fHGg<?OWQg??RV>0
+R2
+R0
+R421
+Z435 8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX2.v
+Z436 FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX2.v
+R414
+R5
+r1
+!s85 0
+31
+R370
+Z437 !s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX2.v|
+Z438 !s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/SDFFX2.v|
+!s101 -O0
+!i113 1
+R7
+ns_sdffx2_@q
+vSDFFARX1
+R286
+!i10b 1
+!s100 `jKmING@n;^_KQM6Bm2jU2
+IV?_42;6D7WDH_>?M09McB1
+R2
+R0
+R309
+R347
+R348
+R4
+R5
+r1
+!s85 0
+31
+R287
+R350
+R351
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@r@x1
+vSDFFARX2
+R286
+!i10b 1
+!s100 nYQI?mfH2`0M>4fTP3lH]2
+II^OFaz_;C1_b`hzVHDXeL3
+R2
+R0
+R309
+R352
+R353
+R4
+R5
+r1
+!s85 0
+31
+R287
+R354
+R355
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@r@x2
+vSDFFASRSX1
+R286
+!i10b 1
+!s100 HUD46?WB[JL[57:4_4Zo@3
+IhfkN3PzjobXlbmd2d0V_93
+R2
+R0
+R309
+R356
+R357
+R4
+R5
+r1
+!s85 0
+31
+R287
+R359
+R360
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@r@s@x1
+vSDFFASRSX2
+R286
+!i10b 1
+!s100 8_XX70ih==Xbfo]fLo]dS0
+I:KMRieNTM@2QjPk`lFBLg0
+R2
+R0
+R309
+R364
+R365
+R4
+R5
+r1
+!s85 0
+31
+R287
+R366
+R367
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@r@s@x2
+vSDFFASRX1
+R363
+!i10b 1
+!s100 =?GY1OS5J`?N08AgoNf@51
+I:onM^ghBV3N;KPeHDII@70
+R2
+R0
+R309
+R368
+R369
+R4
+R5
+r1
+!s85 0
+31
+R370
+R371
+R372
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@r@x1
+vSDFFASRX2
+R363
+!i10b 1
+!s100 M3I`7HMNRjmGHaR@3iD:>0
+IIcUN^i9CAN8D^P`e7Fi240
+R2
+R0
+R309
+R374
+R375
+R4
+R5
+r1
+!s85 0
+31
+R370
+R377
+R378
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@r@x2
+vSDFFASX1
+R363
+!i10b 1
+!s100 RTE79b5m[<K_9S?2Czk^F3
+I5j=@gncKSgn9DfibS_0::2
+R2
+R0
+R379
+R380
+R381
+R4
+R5
+r1
+!s85 0
+31
+R370
+R382
+R383
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@x1
+vSDFFASX2
+R363
+!i10b 1
+!s100 JOPE;o^6GZ:F9;ajafeL?2
+Ih]65kVZEJ`kKoc18EVbFn2
+R2
+R0
+R379
+R384
+R385
+R4
+R5
+r1
+!s85 0
+31
+R370
+R386
+R387
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@a@s@x2
+vSDFFNARX1
+R363
+!i10b 1
+!s100 @NRnEmhT::9GSG8ITzAo43
+I<dUc]^@IY;YXkB9Df6KKb1
+R2
+R0
+R379
+R388
+R389
+R4
+R5
+r1
+!s85 0
+31
+R370
+R390
+R391
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@r@x1
+vSDFFNARX2
+R363
+!i10b 1
+!s100 0GKS:m?8DSO>0kSJO?[=<1
+I?7Unb]6AJULPUAmEKEU3o3
+R2
+R0
+R379
+R392
+R393
+R4
+R5
+r1
+!s85 0
+31
+R370
+R394
+R395
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@r@x2
+vSDFFNASRX1
+R363
+!i10b 1
+!s100 ;NeI=<DldM[1NkP6V@3aG3
+I<jMgUKfoKm3MGe0gNOd>40
+R2
+R0
+R379
+R396
+R397
+R4
+R5
+r1
+!s85 0
+31
+R370
+R398
+R399
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@s@r@x1
+vSDFFNASRX2
+R363
+!i10b 1
+!s100 0:c[9hWPZ`::NBGkdmb;G2
+IS3ZM>[SEGCUUYi^<@o8U@2
+R2
+R0
+R379
+R400
+R401
+R4
+R5
+r1
+!s85 0
+31
+R370
+R402
+R403
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@s@r@x2
+vSDFFNASX1
+R363
+!i10b 1
+!s100 h`@o_AL6^`P_fB]PBE:UY0
+IX2j8I]5Xn90aWgN=Ml@3Y3
+R2
+R0
+R379
+R404
+R405
+R4
+R5
+r1
+!s85 0
+31
+R370
+R406
+R407
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@s@x1
+vSDFFNASX2
+R363
+!i10b 1
+!s100 V5e=XZLoA6_0PWgND0>CY0
+I3FZ0GI2W5o33ie>ib2Ran3
+R2
+R0
+R379
+R408
+R409
+R4
+R5
+r1
+!s85 0
+31
+R370
+R410
+R411
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@a@s@x2
+vSDFFNX1
+R363
+!i10b 1
+!s100 7`?6A1fI2zG[i@ne3@ca;0
+I<VSM[Nh0_zSe5MDN:Xb1O1
+R2
+R0
+R379
+R412
+R413
+R4
+R5
+r1
+!s85 0
+31
+R370
+R415
+R416
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@x1
+vSDFFNX2
+R363
+!i10b 1
+!s100 TSBObfk3:30_29i<L6JmT1
+II_?=C>3I1TUm=GM=VH>dg0
+R2
+R0
+R379
+R417
+R418
+R4
+R5
+r1
+!s85 0
+31
+R370
+R419
+R420
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@n@x2
+vSDFFSSRX1
+R363
+!i10b 1
+!s100 ^WTzTCo;3Z;af48lP[z9e3
+IUO45IaPoD]3]fD=B9l]=`0
+R2
+R0
+R421
+R422
+R423
+R4
+R5
+r1
+!s85 0
+31
+R370
+R425
+R426
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@s@s@r@x1
+vSDFFSSRX2
+R363
+!i10b 1
+!s100 5eC?9k??j;<hYkDfSNcfe2
+InVh?3UEJ0Ri9[3flKQ6RF1
+R2
+R0
+R421
+R427
+R428
+R4
+R5
+r1
+!s85 0
+31
+R370
+R429
+R430
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@s@s@r@x2
+vSDFFX1
+R363
+!i10b 1
+!s100 Mc?cHi0[:HR^4fAe6cCd62
+IIPG22__T=JaOLcc;<_HLW1
+R2
+R0
+R421
+R431
+R432
+R4
+R5
+r1
+!s85 0
+31
+R370
+R433
+R434
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@x1
+vSDFFX2
+R363
+!i10b 1
+!s100 O2jMd2YiC9G=S:Vek^QBd1
+IX2A<dERODJf]k]O<B6gfV1
+R2
+R0
+R421
+R435
+R436
+R4
+R5
+r1
+!s85 0
+31
+R370
+R437
+R438
+!s101 -O0
+!i113 1
+R7
+n@s@d@f@f@x2
+vStore_FSM
+R255
+!i10b 1
+!s100 UiJ5ac?I<jzhEAjEoHSWZ0
+I1>6];z8RJGCMOI1F8^MY61
+R2
+R0
+R256
+8X:/Windows/System Synth/syn/synStore.v
+FX:/Windows/System Synth/syn/synStore.v
+L0 2
+R5
+r1
+!s85 0
+31
+R257
+!s107 X:/Windows/System Synth/syn/synStore.v|
+!s90 -reportprogress|300|-work|work_synthesis|X:/Windows/System Synth/syn/synStore.v|
+!s101 -O0
+!i113 1
+R7
+n@store_@f@s@m
+vTNBUFFHX1
+R363
+!i10b 1
+!s100 7BVlcWKfANB56`HoWz^RQ3
+I1VnR][?g@[gJHeg[]5kGz1
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX1.v
+R4
+R5
+r1
+!s85 0
+31
+R370
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX1.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX1.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x1
+vTNBUFFHX16
+Z439 !s110 1481174375
+!i10b 1
+!s100 SW>j@TSVK[K01Pg[o27K`3
+IPiF5djo[XWo2ciHQfB1d23
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX16.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX16.v
+R4
+R5
+r1
+!s85 0
+31
+Z440 !s108 1481174375.000000
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX16.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX16.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x16
+vTNBUFFHX2
+R363
+!i10b 1
+!s100 gfGMRAhYKHZ3MZhhI[6ef0
+Ie5O`jVNHMfP@jTC2eYbnM0
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX2.v
+R4
+R5
+r1
+!s85 0
+31
+R370
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX2.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX2.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x2
+vTNBUFFHX32
+R439
+!i10b 1
+!s100 PX9a?C5>[^1B;FX[PVZF80
+IOjY5BgjlV_14WVO3=XZa60
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX32.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX32.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX32.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX32.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x32
+vTNBUFFHX4
+R439
+!i10b 1
+!s100 U1kNk@^Wki4A7;lQ>FFB[0
+ILm8afh=1KU;a0=TmVAC]?2
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX4.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX4.v
+R4
+R5
+r1
+!s85 0
+31
+R370
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX4.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX4.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x4
+vTNBUFFHX8
+R439
+!i10b 1
+!s100 dY1KQR?zBRMnB3FO7^`LK1
+Iz2>G1TMJiU;QG^Kbg6IVQ2
+R2
+R0
+R421
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX8.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX8.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX8.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/TNBUFFHX8.v|
+!s101 -O0
+!i113 1
+R7
+n@t@n@b@u@f@f@h@x8
+vXNOR2X1
+R439
+!i10b 1
+!s100 658zOePX0JJXZV8;=Xz9I1
+IEajA;Lm?@mVR3cjKQ;eIH3
+R2
+R0
+Z441 w1475708462
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X1.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X1.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X1.v|
+!s101 -O0
+!i113 1
+R7
+n@x@n@o@r2@x1
+vXNOR2X2
+R439
+!i10b 1
+!s100 ^Fh:J1da3NaAn[V`Y:2bO2
+IR41n]8[__J>:EKUINSZW>3
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X2.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@x@n@o@r2@x2
+vXNOR3X1
+R439
+!i10b 1
+!s100 6YRnX<TLM[Rc]We<C4dKh0
+IJ0hA=8SPAlVn7;=3Y67]n1
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X1.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@x@n@o@r3@x1
+vXNOR3X2
+R439
+!i10b 1
+!s100 @7aECCc:KVa1i?abd]NBX0
+I9i^7>mSO7_K9jZNikbE@h2
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X2.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XNOR3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@x@n@o@r3@x2
+vXOR2X1
+R439
+!i10b 1
+!s100 RZH7D9AcRJe@5I;Mj7k6h1
+I?bid5mh;oAeJdRZPUcC:c3
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X1.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X1.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X1.v|
+!s101 -O0
+!i113 1
+R7
+n@x@o@r2@x1
+vXOR2X2
+R439
+!i10b 1
+!s100 ?PH[gEge[YEm1RjHOn9_F0
+Ik?R8ZO5l55`H_CafF<9VX1
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X2.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X2.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR2X2.v|
+!s101 -O0
+!i113 1
+R7
+n@x@o@r2@x2
+vXOR3X1
+R439
+!i10b 1
+!s100 DS6P;AATdK6jPRMXenP5^2
+IM=`I6lJfUOc35cgDA5z5L3
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X1.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X1.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X1.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X1.v|
+!s101 -O0
+!i113 1
+R7
+n@x@o@r3@x1
+vXOR3X2
+R439
+!i10b 1
+!s100 ?9L^;OCncf2]`kjL7XbbO1
+I2b@E9n^4k6:n=Z3VodRlF3
+R2
+R0
+R441
+8C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X2.v
+FC:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X2.v
+R4
+R5
+r1
+!s85 0
+31
+R440
+!s107 C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X2.v|
+!s90 -reportprogress|30|-work|work_synthesis|C:/Users/Meryl/Documents/System Synthesis and Modeling/90nm Library/XOR3X2.v|
+!s101 -O0
+!i113 1
+R7
+n@x@o@r3@x2
