@@ -1,2 +1,2 @@
 # VLSI-Circuit-Design
-Work samples of my experience in VLSI circuit design, synthesis, and test.
+Work samples of my academic experience in VLSI circuit design, synthesis, and test.
